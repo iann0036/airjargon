@@ -43,7 +43,6 @@
         rows="5">INFO E. TMP: 13. WIND: 100/15 XW MAX 12 KTS RWY 16. CLD: FEW020. EXP INSTR APCH. RWY 07 FOR ARRS, RWYS 16L&R FOR DEPS. ACFT WITH GREATER THAN 36M WINGSPAN EXPECT INTERSECTION GOLF FOR DEPARTURE RWY 16R. WET. VIS: 10KM IN RAIN. QNH: 1026.</textarea>
     <button id="randomSample">Random Sample</button>
     <div id="my_dataviz"></div>
-    <pre id="dbg"></pre>
     <script>
         const ICAO_ALPHABET = {
             "A": "Alpha",
@@ -73,10 +72,6 @@
             "Y": "Yankee",
             "Z": "Zulu"
         };
-
-        function dbg(msg) {
-            document.getElementById('dbg').innerHTML += JSON.stringify(msg) + "\n";
-        }
 
         function getTermMeaning(word, sentence, termsdata) {
             word = word.replace(/[^a-zA-Z0-9]/g, "");
@@ -197,7 +192,6 @@
             document.getElementById('randomSample').addEventListener('click', () => {
                 d3.json("./samples.json").then(function (sampledata) {
                     var sample = sampledata[Math.floor(Math.random() * sampledata.length)];
-                    dbg(sample);
                     document.getElementById('textinput').value = sample['tweet'];
                     processTextInput();
                 });

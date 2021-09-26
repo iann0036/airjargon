@@ -2871,6 +2871,10 @@
         "Source": "AIS"
     },
     {
+        "Acronym": "GLS",
+        "Meaning": "GNSS (Global navigation satellite system) landing system"
+    },
+    {
         "Acronym": "GM",
         "Meaning": "Guidance Material"
     },
@@ -3394,6 +3398,10 @@
         "Acronym": "INCERFA",
         "Meaning": "Uncertainty Phase",
         "Source": "AIS"
+    },
+    {
+        "Acronym": "INDEP",
+        "Meaning": "Independant"
     },
     {
         "Acronym": "INFO",
@@ -4730,6 +4738,10 @@
         "Meaning": "Office of Parliamentary Counsel"
     },
     {
+        "Acronym": "OPER",
+        "Meaning": "Operation, Operating"
+    },
+    {
         "Acronym": "OPMET",
         "Meaning": "Operational Meteorological"
     },
@@ -5830,7 +5842,7 @@
         "Source": "AIS"
     },
     {
-        "Acronym": "SH...",
+        "Acronym": "SH",
         "Meaning": "Showers (followed by RA=rain, SN=snow, PL=ice pellets, GR=hail, GS=small hail and/or snow pellets or combinations thereof, eg, SHRASN = showers of rain and snow)",
         "Source": "AIS"
     },
@@ -5862,6 +5874,10 @@
         "Acronym": "SIGMET",
         "Meaning": "Information concerning en route weather phenomena which may affect the safety of aircraft operations",
         "Source": "AIS"
+    },
+    {
+        "Acronym": "SIGWX",
+        "Meaning": "Significant weather"
     },
     {
         "Acronym": "SIL",
@@ -6555,6 +6571,10 @@
     {
         "Acronym": "TURB",
         "Meaning": "Turbulence"
+    },
+    {
+        "Acronym": "TWR",
+        "Meaning": "Tailwind"
     },
     {
         "Acronym": "TWR",
