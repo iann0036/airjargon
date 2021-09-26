@@ -284,11 +284,12 @@
             }
             processTextInput();
 
+            document.getElementById('textinput').addEventListener('change', processTextInput);
+
             document.getElementById('randomSample').addEventListener('click', () => {
                 d3.json("./samples.json").then(function (sampledata) {
                     var sample = sampledata[Math.floor(Math.random() * sampledata.length)];
                     document.getElementById('textinput').value = sample['tweet'];
-                    processTextInput();
                 });
             });
         });
