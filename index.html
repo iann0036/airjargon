@@ -167,7 +167,7 @@
 
             for (var i = 0; i < termsdata.length; i++) {
                 if (termsdata[i]['Acronym'].startsWith("/")) {
-                    var r = new RegExp(termsdata[i]['Acronym'].replace(/^\//g, "").replace(/\/$/g, ""));
+                    var r = new RegExp(termsdata[i]['Acronym'].replace(/^\//g, "").replace(/\/$/g, ""), "g");
 
                     if (word.match(r)) {
                         return [i, word.replaceAll(r, termsdata[i]['Meaning'])];
