@@ -1923,6 +1923,10 @@
         "Source": "AIS"
     },
     {
+        "Acronym": "DIR",
+        "Meaning": "Direction"
+    },
+    {
         "Acronym": "DISP",
         "Meaning": "Displaced",
         "Source": "AIS"
