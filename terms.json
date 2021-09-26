@@ -32,6 +32,14 @@
         "Meaning": "$1 Kilometers"
     },
     {
+        "Acronym": "/^([1-9][0-9]?[0-9]?)M$/",
+        "Meaning": "$1 Meters"
+    },
+    {
+        "Acronym": "/^([1-9][0-9]*)([0-9]{3})M$/",
+        "Meaning": "$1,$2 Meters"
+    },
+    {
         "Acronym": "/^FEW0([1-9])([0-9])$/",
         "Meaning": "Few at $1,$200 feet"
     },
