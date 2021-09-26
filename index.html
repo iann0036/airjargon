@@ -168,8 +168,8 @@
                 if (termsdata[i]['Acronym'].startsWith("/")) {
                     var r = new RegExp(termsdata[i]['Acronym'].replace(/^\//g, "").replace(/\/$/g, ""), "g");
 
-                    if (word.match(r)) {
-                        return [i, word.replaceAll(r, termsdata[i]['Meaning'])];
+                    if (word.replace(/,$/g, "").match(r)) {
+                        return [i, word.replace(/,$/g, "").replaceAll(r, termsdata[i]['Meaning'])];
                     }
                 } else if (termsdata[i]['Acronym'].toUpperCase() == rword.toUpperCase()) {
                     return [i, termsdata[i]['Meaning']];
