@@ -224,7 +224,7 @@
                     for (var word of words) {
                         var lastword = svg.append('text')
                             .attr('font-family', 'Open Sans')
-                            .attr('x', d => (lastword.width*1.05) + lastword.x + 4)
+                            .attr('x', d => lastword.width + lastword.x + 4)
                             .attr('y', d => lastsentence.y)
                             .attr('stroke', 'black')
                             .style("font-size", 12)
@@ -260,7 +260,7 @@
 
                             if (expandedword.width + 8 > lastword.width) {
                                 lastword = expandedword;
-                                lastword.width = lastword.width * 1.1;
+                                lastword.width = lastword.width * 1.15;
                             }
                         }
                     }
