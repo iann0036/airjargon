@@ -5425,6 +5425,10 @@
         "Source": "AIS"
     },
     {
+        "Acronym": "REQD",
+        "Meaning": "Requested, Required"
+    },
+    {
         "Acronym": "RERTE",
         "Meaning": "Re-route",
         "Source": "AIS"
