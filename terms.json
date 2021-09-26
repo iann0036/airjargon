@@ -20,6 +20,38 @@
         "Meaning": "$1 Kilometers"
     },
     {
+        "Acronym": "/^FEW0([1-9])([0-9])$/",
+        "Meaning": "Few at $1,$200 feet"
+    },
+    {
+        "Acronym": "/^SCT0([1-9])([0-9])$/",
+        "Meaning": "Scattered at $1,$200 feet"
+    },
+    {
+        "Acronym": "/^BKN0([1-9])([0-9])$/",
+        "Meaning": "Broken at $1,$200 feet"
+    },
+    {
+        "Acronym": "/^OVC0([1-9])([0-9])$/",
+        "Meaning": "Overcast at $1,$200 feet"
+    },
+    {
+        "Acronym": "/^FEW00([0-9])$/",
+        "Meaning": "Few at $100 feet"
+    },
+    {
+        "Acronym": "/^SCT00([0-9])$/",
+        "Meaning": "Scattered at $100 feet"
+    },
+    {
+        "Acronym": "/^BKN00([0-9])$/",
+        "Meaning": "Broken at $100 feet"
+    },
+    {
+        "Acronym": "/^OVC00([0-9])$/",
+        "Meaning": "Overcast at $100 feet"
+    },
+    {
         "Acronym": "A",
         "Meaning": "Amber",
         "Source": "ICAO"
