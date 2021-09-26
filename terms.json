@@ -3574,36 +3574,40 @@
         "Source": "AIS"
     },
     {
-        "Acronym": "KG (kg)",
+        "Acronym": "KG",
         "Meaning": "Kilograms",
         "Source": "AIS"
     },
     {
-        "Acronym": "KHZ (kHz)",
+        "Acronym": "KHZ",
         "Meaning": "Kilohertz"
     },
     {
-        "Acronym": "KM (km)",
+        "Acronym": "KM",
         "Meaning": "Kilometers",
         "Source": "AIS"
     },
     {
-        "Acronym": "KMH (km/h)",
+        "Acronym": "KMH",
         "Meaning": "Kilometers per hour",
         "Source": "AIS"
     },
     {
-        "Acronym": "KPA (kPa)",
+        "Acronym": "KPA",
         "Meaning": "Kilopascals",
         "Source": "AIS"
     },
     {
-        "Acronym": "KT (kt)",
+        "Acronym": "KT",
         "Meaning": "Knots",
         "Source": "AIS"
     },
     {
-        "Acronym": "KW (kw)",
+        "Acronym": "KTS",
+        "Meaning": "Knots"
+    },
+    {
+        "Acronym": "KW",
         "Meaning": "Kilowatts",
         "Source": "AIS"
     },

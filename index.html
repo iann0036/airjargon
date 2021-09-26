@@ -85,7 +85,7 @@
                 return [word.charCodeAt(0), ICAO_ALPHABET[word]];
             }
 
-            for (var i=0; i<termsdata.length; i++) {
+            for (var i = 0; i < termsdata.length; i++) {
                 if (termsdata[i]['Acronym'].toUpperCase() == word.toUpperCase()) {
                     return [i, termsdata[i]['Meaning']];
                 }
@@ -104,97 +104,103 @@
             .attr("height", height + margin.top + margin.bottom)
             .append("g")
             .attr("transform",
-                "translate(" + margin.left + "," + margin.top + ")")
+                "translate(" + margin.left + "," + margin.top + ")");
 
         d3.json("./terms.json").then(function (termsdata) {
-            var alltext = document.getElementById("textinput").value.trim();
+            function processTextInput() {
+                svg.selectAll("*").remove();
 
-            var sentences = alltext.split(".");
+                var alltext = document.getElementById("textinput").value.trim();
 
-            var lastsentence = {
-                y: 0
-            };
+                var sentences = alltext.split(".");
 
-            for (var sentence of sentences) {
-                var trimmed = sentence.trim();
-
-                if (trimmed == "") {
-                    continue;
-                }
-
-                var words = trimmed.split(" ");
-
-                var lastword = {
-                    x: 0,
-                    width: 0
+                var lastsentence = {
+                    y: 0
                 };
 
-                const COLORS = [
-                    "#df3312",
-                    "#1e8900",
-                    "#dd6b10",
-                    "#0073bb",
-                    "#ce6dbd",
-                    "#756bb1"
-                ];
+                for (var sentence of sentences) {
+                    var trimmed = sentence.trim();
 
-                for (var word of words) {
-                    var lastword = svg.append('text')
+                    if (trimmed == "") {
+                        continue;
+                    }
+
+                    var words = trimmed.split(" ");
+
+                    var lastword = {
+                        x: 0,
+                        width: 0
+                    };
+
+                    const COLORS = [
+                        "#df3312",
+                        "#1e8900",
+                        "#dd6b10",
+                        "#0073bb",
+                        "#ce6dbd",
+                        "#756bb1"
+                    ];
+
+                    for (var word of words) {
+                        var lastword = svg.append('text')
+                            .attr('x', d => lastword.width + lastword.x + 4)
+                            .attr('y', d => lastsentence.y)
+                            .attr('stroke', 'black')
+                            .style("font-size", 12)
+                            .text(word)
+                            .node().getBBox();
+
+                        var termmeaning = getTermMeaning(word, trimmed, termsdata);
+
+                        if (termmeaning) {
+                            svg.append('rect')
+                                .attr('x', lastword.x)
+                                .attr('y', lastword.y + lastword.height)
+                                .attr('rx', 3)
+                                .attr('ry', 3)
+                                .attr('width', lastword.width)
+                                .attr('height', 3)
+                                .attr('fill', COLORS[termmeaning[0] % COLORS.length]);
+
+                            svg.append('circle')
+                                .attr('cx', lastword.x + 2)
+                                .attr('cy', lastword.y + lastword.height + 10)
+                                .attr('r', 3)
+                                .attr('fill', COLORS[termmeaning[0] % COLORS.length]);
+
+                            var expandedword = svg.append('text')
+                                .attr('x', d => lastword.x + 6)
+                                .attr('y', d => lastword.y + lastword.height + 12)
+                                .attr('stroke', 'black')
+                                .style("font-size", 8)
+                                .text(termmeaning[1])
+                                .node().getBBox();
+
+                            if (expandedword.width > lastword.width) {
+                                lastword = expandedword;
+                            }
+                        }
+                    }
+
+                    svg.append('text')
                         .attr('x', d => lastword.width + lastword.x + 4)
                         .attr('y', d => lastsentence.y)
                         .attr('stroke', 'black')
                         .style("font-size", 12)
-                        .text(word)
-                        .node().getBBox();
+                        .text(".");
 
-                    var termmeaning = getTermMeaning(word, trimmed, termsdata);
-                    
-                    if (termmeaning) {
-                        svg.append('rect')
-                            .attr('x', lastword.x)
-                            .attr('y', lastword.y + lastword.height)
-                            .attr('rx', 3)
-                            .attr('ry', 3)
-                            .attr('width', lastword.width)
-                            .attr('height', 3)
-                            .attr('fill', COLORS[termmeaning[0]%COLORS.length]);
-                        
-                        svg.append('circle')
-                            .attr('cx', lastword.x + 2)
-                            .attr('cy', lastword.y + lastword.height + 10)
-                            .attr('r', 3)
-                            .attr('fill', COLORS[termmeaning[0]%COLORS.length]);
-                        
-                        var expandedword = svg.append('text')
-                            .attr('x', d => lastword.x + 6)
-                            .attr('y', d => lastword.y + lastword.height + 12)
-                            .attr('stroke', 'black')
-                            .style("font-size", 8)
-                            .text(termmeaning[1])
-                            .node().getBBox();
-                        
-                        if (expandedword.width > lastword.width) {
-                            lastword = expandedword;
-                        }
-                    }
+                    lastsentence.y += 40;
                 }
-
-                svg.append('text')
-                    .attr('x', d => lastword.width + lastword.x + 4)
-                    .attr('y', d => lastsentence.y)
-                    .attr('stroke', 'black')
-                    .style("font-size", 12)
-                    .text(".");
-
-                lastsentence.y += 40;
             }
-        });
+            processTextInput();
 
-        d3.json("./samples.json").then(function (sampledata) {
-            document.getElementById('randomSample').click(() => {
-                var sample = sampledata[Math.floor(Math.random()*sampledata.length)];
-                dbg(sample);
-                document.getElementById('textinput').value = sample['tweet'];
+            document.getElementById('randomSample').addEventListener('click', () => {
+                d3.json("./samples.json").then(function (sampledata) {
+                    var sample = sampledata[Math.floor(Math.random() * sampledata.length)];
+                    dbg(sample);
+                    document.getElementById('textinput').value = sample['tweet'];
+                    processTextInput();
+                });
             });
         });
     </script>
