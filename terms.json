@@ -5834,7 +5834,7 @@
     },
     {
         "Acronym": "SH",
-        "Meaning": "Showers (followed by RA=rain, SN=snow, PL=ice pellets, GR=hail, GS=small hail and/or snow pellets or combinations thereof, eg, SHRASN = showers of rain and snow)",
+        "Meaning": "Showers",
         "Source": "AIS"
     },
     {
