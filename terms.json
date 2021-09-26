@@ -810,15 +810,6 @@
         "Source": "ICAO"
     },
     {
-        "Acronym": "AS",
-        "Meaning": "Altostratus (meteorological)",
-        "Source": "ICAO/AIP"
-    },
-    {
-        "Acronym": "AS",
-        "Meaning": "Australian Standard"
-    },
-    {
         "Acronym": "ASA",
         "Meaning": "Australian Skydiving Association"
     },
