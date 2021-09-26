@@ -6806,6 +6806,10 @@
         "Source": "AIS"
     },
     {
+        "Acronym": "VCSH",
+        "Meaning": "Showers in the vicinity"
+    },
+    {
         "Acronym": "VCSHRA",
         "Meaning": "Rain showers in the vicinity"
     },
