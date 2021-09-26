@@ -6762,8 +6762,12 @@
     },
     {
         "Acronym": "VC",
-        "Meaning": "Vicinity of the aerodrome (followed by FG=fog, FC=funnel cloud, PO=dust/sand whirls, BLDU=blowing dust, BLSA=blowing sand or BLSN=blowing snow; eg, VCFG=vicinity fog",
+        "Meaning": "Vicinity of the aerodrome",
         "Source": "AIS"
+    },
+    {
+        "Acronym": "VCSHRA",
+        "Meaning": "Rain showers in the vicinity"
     },
     {
         "Acronym": "VCY",
