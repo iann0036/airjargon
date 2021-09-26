@@ -56,6 +56,22 @@
         "Meaning": "Overcast at $1,$200 feet"
     },
     {
+        "Acronym": "/^FEW0([1-9])([0-9])CB$/",
+        "Meaning": "Few at $1,$200 feet, clear below"
+    },
+    {
+        "Acronym": "/^SCT0([1-9])([0-9])CB$/",
+        "Meaning": "Scattered at $1,$200 feet, clear below"
+    },
+    {
+        "Acronym": "/^BKN0([1-9])([0-9])CB$/",
+        "Meaning": "Broken at $1,$200 feet, clear below"
+    },
+    {
+        "Acronym": "/^OVC0([1-9])([0-9])CB$/",
+        "Meaning": "Overcast at $1,$200 feet, clear below"
+    },
+    {
         "Acronym": "/^FEW00([0-9])$/",
         "Meaning": "Few at $100 feet"
     },
