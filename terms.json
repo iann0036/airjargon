@@ -2738,6 +2738,10 @@
         "Source": "AIS"
     },
     {
+        "Acronym": "FUHZ",
+        "Meaning": "Smoke / Haze"
+    },
+    {
         "Acronym": "FXD",
         "Meaning": "Fixed",
         "Source": "AIS"
