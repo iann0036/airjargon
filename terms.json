@@ -4467,6 +4467,10 @@
         "Source": "AIS"
     },
     {
+        "Acronym": "NAVBL",
+        "Meaning": "Not Available"
+    },
+    {
         "Acronym": "NAWD",
         "Meaning": "Non-acqueous Wet Developer",
         "Source": "AIS"
