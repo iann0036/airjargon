@@ -1,10 +1,5 @@
 [
     {
-        "Acronym": "...T",
-        "Meaning": "Bearing (true)",
-        "Source": "AIS"
-    },
-    {
         "Acronym": "A",
         "Meaning": "Amber",
         "Source": "ICAO"
@@ -101,7 +96,7 @@
     },
     {
         "Acronym": "ABV",
-        "Meaning": "Above...",
+        "Meaning": "Above",
         "Source": "AIS"
     },
     {
@@ -596,12 +591,12 @@
     },
     {
         "Acronym": "ANC",
-        "Meaning": "Aeronautical Chart 1:50,000 (followed by name/title)",
+        "Meaning": "Aeronautical Chart 1:50,000",
         "Source": "AIS"
     },
     {
         "Acronym": "ANCS",
-        "Meaning": "Aeronautical navigation chart - small scale (followed by name/title and scale)",
+        "Meaning": "Aeronautical navigation chart - small scale",
         "Source": "ICAO"
     },
     {
@@ -633,7 +628,7 @@
     },
     {
         "Acronym": "AOC",
-        "Meaning": "Aerodrome Obstacle Chart (followed by name/title)",
+        "Meaning": "Aerodrome Obstacle Chart",
         "Source": "AIS/AIP"
     },
     {
@@ -671,7 +666,7 @@
     },
     {
         "Acronym": "APDC",
-        "Meaning": "Aircraft Parking/Docking Chart (followed by name/title)",
+        "Meaning": "Aircraft Parking/Docking Chart",
         "Source": "AIS"
     },
     {
@@ -898,11 +893,6 @@
         "Acronym": "AT-VASIS",
         "Meaning": "Abbreviated 'T' Visual Approach Slope Indicator System (pronounced 'AY-TEE-VASIS')",
         "Source": "AIS"
-    },
-    {
-        "Acronym": "AT...",
-        "Meaning": "At (followed by time at which weather change is forecast to occur)",
-        "Source": "ICAO"
     },
     {
         "Acronym": "ATA",
@@ -1147,8 +1137,8 @@
         "Source": "AIS"
     },
     {
-        "Acronym": "BL...",
-        "Meaning": "Blowing (followed by DU=dust, SA=sand or SN=snow)",
+        "Acronym": "BL",
+        "Meaning": "Blowing",
         "Source": "AIS"
     },
     {
@@ -1486,7 +1476,7 @@
     },
     {
         "Acronym": "CLR",
-        "Meaning": "Clear, Cleared to... Clearance",
+        "Meaning": "Clear, Cleared to, Clearance",
         "Source": "AIS"
     },
     {
@@ -1495,7 +1485,7 @@
         "Source": "AIS"
     },
     {
-        "Acronym": "CM (cm)",
+        "Acronym": "CM",
         "Meaning": "Centimetre",
         "Source": "AIS"
     },
@@ -1776,11 +1766,6 @@
         "Source": "AIS"
     },
     {
-        "Acronym": "D...",
-        "Meaning": "Danger Area (followed by identification)",
-        "Source": "AIS"
-    },
-    {
         "Acronym": "DA",
         "Meaning": "Decision Altitude",
         "Source": "AIS"
@@ -2025,8 +2010,8 @@
         "Source": "ICAO"
     },
     {
-        "Acronym": "DR...",
-        "Meaning": "Low drifting (followed by DU=dust, SA=sand or SN=snow)",
+        "Acronym": "DR",
+        "Meaning": "Low drifting",
         "Source": "AIS"
     },
     {
@@ -2248,7 +2233,7 @@
     },
     {
         "Acronym": "ENRC",
-        "Meaning": "En Route Chart (followed by name/title)",
+        "Meaning": "En Route Chart",
         "Source": "AIS"
     },
     {
@@ -2589,8 +2574,8 @@
         "Source": "AIS"
     },
     {
-        "Acronym": "FM...",
-        "Meaning": "From (followed by time weather change is forecast to begin)",
+        "Acronym": "FM",
+        "Meaning": "From",
         "Source": "AIS"
     },
     {
@@ -2879,7 +2864,7 @@
     },
     {
         "Acronym": "GMC",
-        "Meaning": "Ground Movement Chart (followed by name/title)",
+        "Meaning": "Ground Movement Chart",
         "Source": "AIS"
     },
     {
@@ -3206,7 +3191,7 @@
         "Source": "AIS"
     },
     {
-        "Acronym": "HZ (hz)",
+        "Acronym": "HZ",
         "Meaning": "Hertz",
         "Source": "AIS"
     },
@@ -3222,7 +3207,7 @@
     },
     {
         "Acronym": "IAC",
-        "Meaning": "Instrument approach chart (followed by name/title)",
+        "Meaning": "Instrument approach chart",
         "Source": "FAR"
     },
     {
@@ -3862,8 +3847,8 @@
         "Source": "AIS"
     },
     {
-        "Acronym": "M (m)",
-        "Meaning": "Metres (preceded by figures)",
+        "Acronym": "M",
+        "Meaning": "Metres",
         "Source": "AIS"
     },
     {
@@ -4027,7 +4012,7 @@
         "Source": "AIS"
     },
     {
-        "Acronym": "MHZ (mhz)",
+        "Acronym": "MHZ",
         "Meaning": "Megahertz",
         "Source": "AIS"
     },
@@ -4806,10 +4791,6 @@
         "Meaning": "Over Water"
     },
     {
-        "Acronym": "P..",
-        "Meaning": "Prohibited Area (followed by identification)"
-    },
-    {
         "Acronym": "PA",
         "Meaning": "Precision Approach"
     },
@@ -4844,7 +4825,7 @@
     },
     {
         "Acronym": "PATC",
-        "Meaning": "Precision Approach Terrain Chart (followed by name/title)",
+        "Meaning": "Precision Approach Terrain Chart",
         "Source": "AIS"
     },
     {
@@ -5186,11 +5167,6 @@
         "Source": "AIS"
     },
     {
-        "Acronym": "R....",
-        "Meaning": "Restricted Area (followed by number)",
-        "Source": "AIS"
-    },
-    {
         "Acronym": "R/T",
         "Meaning": "Radio Telephone",
         "Source": "AIS"
@@ -5325,8 +5301,8 @@
         "Meaning": "Runway Distance Supplement"
     },
     {
-        "Acronym": "RE...",
-        "Meaning": "Recent (used to qualify weather phenomena, eg RERA = recent rain)",
+        "Acronym": "RE",
+        "Meaning": "Recent",
         "Source": "CASA"
     },
     {
@@ -5341,7 +5317,7 @@
     },
     {
         "Acronym": "REF",
-        "Meaning": "Reference to... Refer to...",
+        "Meaning": "Reference to, Refer to",
         "Source": "AIS"
     },
     {
@@ -5826,7 +5802,7 @@
     },
     {
         "Acronym": "SEV",
-        "Meaning": "Severe (used eg to qualify icing and turbulence report)",
+        "Meaning": "Severe",
         "Source": "AIS"
     },
     {
@@ -5963,7 +5939,7 @@
         "Source": "AIS"
     },
     {
-        "Acronym": "SOM (SoM)",
+        "Acronym": "SOM",
         "Meaning": "System of Maintenance",
         "Source": "AIS"
     },
@@ -6551,8 +6527,8 @@
         "Meaning": "Tropopause"
     },
     {
-        "Acronym": "TS...",
-        "Meaning": "Thunderstorm (followed by RA=rain, SN=snow, PE=ice pellets, GR=hail, GS=small hail and/or snow pellets or combinations thereof, eg TSRASN = thunderstorm with rain and snow)",
+        "Acronym": "TS",
+        "Meaning": "Thunderstorm",
         "Source": "AIS"
     },
     {
@@ -6813,7 +6789,7 @@
     },
     {
         "Acronym": "VIA",
-        "Meaning": "By way of...",
+        "Meaning": "By way of",
         "Source": "AIS"
     },
     {
@@ -7003,7 +6979,7 @@
     },
     {
         "Acronym": "WAC",
-        "Meaning": "World Aeronautical Chart ICAO 1:1,000,000 (followed by name/title)"
+        "Meaning": "World Aeronautical Chart ICAO 1:1,000,000"
     },
     {
         "Acronym": "WAFC",
@@ -7084,7 +7060,7 @@
     },
     {
         "Acronym": "WINTEM",
-        "Meaning": "Forecast upper wind and temperature at specified points (in aeronautical met code)"
+        "Meaning": "Forecast upper wind and temperature at specified points"
     },
     {
         "Acronym": "WIP",
@@ -7205,7 +7181,7 @@
     },
     {
         "Acronym": "Z",
-        "Meaning": "Coordinated Universal Time (in meteorological messages)",
+        "Meaning": "Coordinated Universal Time",
         "Source": "AIS"
     }
 ]
