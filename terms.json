@@ -5885,6 +5885,10 @@
         "Source": "AIS"
     },
     {
+        "Acronym": "SIMULT",
+        "Meaning": "Simultaneous, or Simultaneously"
+    },
+    {
         "Acronym": "SKC",
         "Meaning": "Sky Clear"
     },
