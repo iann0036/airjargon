@@ -1996,6 +1996,10 @@
         "Meaning": "Department of Defence"
     },
     {
+        "Acronym": "DODPROPS",
+        "Meaning": "Dependent opposite direction parallel runway operations"
+    },
+    {
         "Acronym": "DOM",
         "Meaning": "Domestic",
         "Source": "AIS"
@@ -5948,6 +5952,10 @@
         "Acronym": "SOC",
         "Meaning": "Start of Climb",
         "Source": "AIS"
+    },
+    {
+        "Acronym": "SODPROPS",
+        "Meaning": "Simultaneous opposite direction parallel runway operations"
     },
     {
         "Acronym": "SOE",
