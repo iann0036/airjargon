@@ -1,0 +1,7172 @@
+[
+    {
+        "Acronym": "...T",
+        "Meaning": "Bearing (true)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "A",
+        "Meaning": "Amber",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "A/A",
+        "Meaning": "Air to air",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "A/G",
+        "Meaning": "Air-to-ground",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AAA",
+        "Meaning": "Amended meterological message",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "AAAA",
+        "Meaning": "Aerial Application Association of Australia"
+    },
+    {
+        "Acronym": "AAC",
+        "Meaning": "Airworthiness Advisory Circular",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "AACC",
+        "Meaning": "Area approach control centre",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AAD",
+        "Meaning": "Assigned altitude deviation",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AAIM",
+        "Meaning": "Aircraft Autonomous Integrity Monitor"
+    },
+    {
+        "Acronym": "AAIS",
+        "Meaning": "Automatic aerodrome information service",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AAL",
+        "Meaning": "Above aerodrome level",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AAR",
+        "Meaning": "Authorised Airworthiness Representative",
+        "Source": "CASR Part 183"
+    },
+    {
+        "Acronym": "AAT",
+        "Meaning": "Administrative Appeals Tribunal"
+    },
+    {
+        "Acronym": "ABAA",
+        "Meaning": "Amateur Built Aircraft Acceptance",
+        "Source": "CASR Part 21"
+    },
+    {
+        "Acronym": "ABAS",
+        "Meaning": "Aircraft Based Augmentation System"
+    },
+    {
+        "Acronym": "ABF",
+        "Meaning": "Australian Ballooning Federation"
+    },
+    {
+        "Acronym": "ABI",
+        "Meaning": "Advance boundary information",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ABM",
+        "Meaning": "Abeam",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ABN",
+        "Meaning": "Aerodrome beacon",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ABT",
+        "Meaning": "About",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ABV",
+        "Meaning": "Above...",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AC",
+        "Meaning": "Advisory Circular",
+        "Source": "CASR 1998"
+    },
+    {
+        "Acronym": "AC",
+        "Meaning": "Altocumulus (met)",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "ACA",
+        "Meaning": "Australian Commonwealth Authority"
+    },
+    {
+        "Acronym": "ACARS",
+        "Meaning": "Aircraft communication addressing and reporting system (pronounced 'AY-CARS')",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ACAS",
+        "Meaning": "Airborne Collision Avoidance System",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "ACC",
+        "Meaning": "Area control centre",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ACCID",
+        "Meaning": "Initial notification of an aircraft accident",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ACD",
+        "Meaning": "Airways clearance delivery",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ACFT",
+        "Meaning": "Aircraft",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ACJ-XXX",
+        "Meaning": "Advisory Circular Joint (issued by the JAA, can be followed by a country code)",
+        "Source": "JAA"
+    },
+    {
+        "Acronym": "ACK",
+        "Meaning": "Acknowledge",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ACL",
+        "Meaning": "Altimeter check location",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ACN",
+        "Meaning": "Aircraft classification number",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ACN",
+        "Meaning": "Australian company number"
+    },
+    {
+        "Acronym": "ACPT",
+        "Meaning": "Accept, accepted",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ACROB",
+        "Meaning": "Acrobatics"
+    },
+    {
+        "Acronym": "Act",
+        "Meaning": "the Civil Aviation Act 1988"
+    },
+    {
+        "Acronym": "ACT",
+        "Meaning": "Active, activated, activity",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AD",
+        "Meaning": "Aerodrome",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "AD",
+        "Meaning": "Airworthiness Directive",
+        "Source": "CASR Part 39"
+    },
+    {
+        "Acronym": "ADA",
+        "Meaning": "Advisory area",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ADAO",
+        "Meaning": "Authorised Design Approval Organisation",
+        "Source": "CASR Part 146"
+    },
+    {
+        "Acronym": "ADC",
+        "Meaning": "Aerodrome chart",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ADDGM",
+        "Meaning": "Aerodrome diagrams",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ADDN",
+        "Meaning": "Addition, additional",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ADF",
+        "Meaning": "Automatic Direction Finding (equipment)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ADF",
+        "Meaning": "Australian Defence Force"
+    },
+    {
+        "Acronym": "ADIZ",
+        "Meaning": "Air Defence Identification Zone",
+        "Source": "ICAO/AIS"
+    },
+    {
+        "Acronym": "ADJ",
+        "Meaning": "Adjacent",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ADO",
+        "Meaning": "Aerodrome office",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ADQ",
+        "Meaning": "Adequate aerodrome",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ADR",
+        "Meaning": "Advisory route"
+    },
+    {
+        "Acronym": "ADS",
+        "Meaning": "The address (when this abbreviation is used to request a repetition, the question (IMI) precedes the abbreviation, eg IMI ADS) (to be used in AFS as a procedure signal)",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "ADS",
+        "Meaning": "Automatic Dependent Surveillance",
+        "Source": "AIP/ICAO"
+    },
+    {
+        "Acronym": "ADS-B",
+        "Meaning": "Automatic Dependent Surveillance - Broadcast",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "ADS-C",
+        "Meaning": "Automatic Dependent Surveillance - Contract",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "ADSU",
+        "Meaning": "Automatic Dependent Surveillance Unit",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ADZ",
+        "Meaning": "Advise",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AEB",
+        "Meaning": "CASA's Airworthiness Engineering Branch",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "AEP",
+        "Meaning": "Aerodrome emergency plan",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AER",
+        "Meaning": "Authorised Engineering Representative",
+        "Source": "CASR Part 183"
+    },
+    {
+        "Acronym": "AERIS",
+        "Meaning": "Automatic en route information service",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AFAP",
+        "Meaning": "Australian Federation of Air Pilots"
+    },
+    {
+        "Acronym": "AFCS",
+        "Meaning": "Automatic flight control system",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "AFIL",
+        "Meaning": "Flight notification: - filed in the air, or - indicating the position at which ATS services will first be required",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AFIS",
+        "Meaning": "Aerodrome flight information service",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "AFM",
+        "Meaning": "Aircraft Flight Manual",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "AFM",
+        "Meaning": "Yes, affirm, affirmative, that is correct",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AFRU",
+        "Meaning": "Aerodrome Frequency Response Unit (also known as a \"beepback\" unit)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AFS",
+        "Meaning": "Aeronautical fixed service",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "AFT",
+        "Meaning": "After",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AFTN",
+        "Meaning": "Aeronautical fixed telecommunication network",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "AFZ",
+        "Meaning": "Australian fishing zone(s)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "Ag",
+        "Meaning": "Agriculture"
+    },
+    {
+        "Acronym": "AGA",
+        "Meaning": "Again",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "AGD",
+        "Meaning": "Attorney-General's Department"
+    },
+    {
+        "Acronym": "AGL",
+        "Meaning": "Above Ground Level",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "AH",
+        "Meaning": "Artificial Horizon"
+    },
+    {
+        "Acronym": "AH",
+        "Meaning": "After hours",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AIC",
+        "Meaning": "Aeronautical Information Circular",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "AIDC",
+        "Meaning": "Air traffic services inter-facitility data communications",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "AIP",
+        "Meaning": "Aeronautical Information Publication",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "AIP ENR",
+        "Meaning": "Aeronautical Information Publication En-route"
+    },
+    {
+        "Acronym": "AIP ERSA",
+        "Meaning": "Aeronautical Information Publication En-route Supplement Australia"
+    },
+    {
+        "Acronym": "AIP GEN",
+        "Meaning": "Aeronautical Information Publication General"
+    },
+    {
+        "Acronym": "AIRAC",
+        "Meaning": "Aeronautical Information Regulation and Control",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "AIRC",
+        "Meaning": "Aeronautical Information and Control",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "AIREP",
+        "Meaning": "Air-Report",
+        "Source": "AIP/ICAO"
+    },
+    {
+        "Acronym": "AIRMET",
+        "Meaning": "Information in plain language concerning weather significant to light aircraft operations at or below 10,000FT",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AIS",
+        "Meaning": "Aeronautical Information Service",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "AL",
+        "Meaning": "Approach Lights",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ALA",
+        "Meaning": "Aircraft Landing Area",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "ALA",
+        "Meaning": "Aeroplane landing area"
+    },
+    {
+        "Acronym": "ALA",
+        "Meaning": "Alighting area",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ALA/HLS",
+        "Meaning": "Aircraft Landing Area/Helicopter Landing Site"
+    },
+    {
+        "Acronym": "ALAEA",
+        "Meaning": "Australian Licensed Aircraft Engineers Association"
+    },
+    {
+        "Acronym": "ALARP",
+        "Meaning": "As Low as Reasonably Practical",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ALERFA",
+        "Meaning": "Alert phase",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ALI",
+        "Meaning": "Airworthiness Limitation Item"
+    },
+    {
+        "Acronym": "ALM",
+        "Meaning": "Aircraft Landing Minima",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ALR",
+        "Meaning": "Alerting Message",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ALRS",
+        "Meaning": "Approach lighting system",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ALS",
+        "Meaning": "Approach Lighting System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ALT",
+        "Meaning": "Altitude",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ALTN",
+        "Meaning": "Alternate, Alternating (light alternates in colour)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ALTN",
+        "Meaning": "Alternate (aerodrome)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AMA",
+        "Meaning": "Area minimum altitude",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "AMC",
+        "Meaning": "Acceptable Means of Compliance"
+    },
+    {
+        "Acronym": "AMD",
+        "Meaning": "Amend, Amended",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AMDT",
+        "Meaning": "Amendment (AIP amendment)",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "AME",
+        "Meaning": "Aircraft Maintenance Engineer",
+        "Source": "CASR Part 66"
+    },
+    {
+        "Acronym": "AMM",
+        "Meaning": "Aircraft Maintenance Manual",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "AMO",
+        "Meaning": "Approved Maintenance Organisation",
+        "Source": "CASR Part 145"
+    },
+    {
+        "Acronym": "AMP",
+        "Meaning": "Aircraft Maintenance Program",
+        "Source": "CASR Part 145"
+    },
+    {
+        "Acronym": "AMPA",
+        "Meaning": "Authorised Maintenance Personnel Assessor",
+        "Source": "CASR Part 66"
+    },
+    {
+        "Acronym": "AMRD",
+        "Meaning": "Australian Maintenance Requirements Document",
+        "Source": "CASR Part 43"
+    },
+    {
+        "Acronym": "AMS",
+        "Meaning": "Aircraft Maintenance Specialist",
+        "Source": "CASR Part 145"
+    },
+    {
+        "Acronym": "AMSA",
+        "Meaning": "Australian Maritime Safety Authority"
+    },
+    {
+        "Acronym": "AMSL",
+        "Meaning": "Above Mean Sea Level",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AMSS",
+        "Meaning": "Aeronautical mobile satellite service",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "AMT",
+        "Meaning": "Aircraft Maintenance Technician",
+        "Source": "CASR Part 66"
+    },
+    {
+        "Acronym": "ANA",
+        "Meaning": "Air Navigation Act"
+    },
+    {
+        "Acronym": "ANC",
+        "Meaning": "Aeronautical Chart 1:50,000 (followed by name/title)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ANCS",
+        "Meaning": "Aeronautical navigation chart - small scale (followed by name/title and scale)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ANO",
+        "Meaning": "Air Navigation Order"
+    },
+    {
+        "Acronym": "ANS",
+        "Meaning": "Answer",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ANTA",
+        "Meaning": "Australian National Training Authority",
+        "Source": "CASR Part 66"
+    },
+    {
+        "Acronym": "ANVIS",
+        "Meaning": "Aviator Night Vision Imaging Systems"
+    },
+    {
+        "Acronym": "AO",
+        "Meaning": "Air Operator"
+    },
+    {
+        "Acronym": "AOC",
+        "Meaning": "Air Operators Certificate",
+        "Source": "CASR Part 119"
+    },
+    {
+        "Acronym": "AOC",
+        "Meaning": "Aerodrome Obstacle Chart (followed by name/title)",
+        "Source": "AIS/AIP"
+    },
+    {
+        "Acronym": "AOCM",
+        "Meaning": "Air Operators Certification Manual"
+    },
+    {
+        "Acronym": "AOD",
+        "Meaning": "Alcohol and Other Drug",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "AOG",
+        "Meaning": "Aircraft On Ground",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "AOPA",
+        "Meaning": "Aircraft Owners and Pilots Association"
+    },
+    {
+        "Acronym": "AP",
+        "Meaning": "Airport",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "APAPI",
+        "Meaning": "Abbreviated Precision Approach Path Indicator (pronounced 'AY-PAPI')",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "APCH",
+        "Meaning": "Approach",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "APDC",
+        "Meaning": "Aircraft Parking/Docking Chart (followed by name/title)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "APF",
+        "Meaning": "Australian Parachute Federation"
+    },
+    {
+        "Acronym": "APMA",
+        "Meaning": "Australian Parts Manufacturer Approval",
+        "Source": "CASR Part 21"
+    },
+    {
+        "Acronym": "APN",
+        "Meaning": "Apron",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "APP",
+        "Meaning": "Approach Control",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "APRX",
+        "Meaning": "Approximate, Approximately",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "APSG",
+        "Meaning": "After Passing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "APU",
+        "Meaning": "Auxillary power unit",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "APV",
+        "Meaning": "Approach with Vertical Guidance"
+    },
+    {
+        "Acronym": "APV",
+        "Meaning": "Approve, Approved, Approval",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AQZ",
+        "Meaning": "Area QNH Zone",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ARC",
+        "Meaning": "Area Chart",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "ARFFS",
+        "Meaning": "Aerodrome Rescue and Fire Fighting Service (sometimes referred to as RFFS)",
+        "Source": "CASR Part 139"
+    },
+    {
+        "Acronym": "ARFL",
+        "Meaning": "Aeroplane Reference Field Length",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ARFO",
+        "Meaning": "Area Forecast"
+    },
+    {
+        "Acronym": "ARH",
+        "Meaning": "Aircraft Registration Holder",
+        "Source": "CASR Part 47"
+    },
+    {
+        "Acronym": "ARM",
+        "Meaning": "Airspace Risk Model",
+        "Source": "ICAO/CASA"
+    },
+    {
+        "Acronym": "ARM",
+        "Meaning": "Aircraft Recovery Manual",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "ARN",
+        "Meaning": "Aviation Reference Number",
+        "Source": "CASA/AIP"
+    },
+    {
+        "Acronym": "ARNG",
+        "Meaning": "Arrange",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ARO",
+        "Meaning": "Air traffic services reporting office",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "AROC",
+        "Meaning": "Aircraft radio operator certificate"
+    },
+    {
+        "Acronym": "ARP",
+        "Meaning": "Aerodrome reference point",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "ARP",
+        "Meaning": "Air-Report (message type designator)",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "ARQ",
+        "Meaning": "Automatic error correction",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ARR",
+        "Meaning": "Arrive, Arrival",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ARRS",
+        "Meaning": "Arrivals"
+    },
+    {
+        "Acronym": "ARS",
+        "Meaning": "Special Air-Report (message type designator)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ARST",
+        "Meaning": "Arresting (specify (part of) aircraft arresting equipment)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "AS",
+        "Meaning": "Altostratus (meteorological)",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "AS",
+        "Meaning": "Australian Standard"
+    },
+    {
+        "Acronym": "ASA",
+        "Meaning": "Australian Skydiving Association"
+    },
+    {
+        "Acronym": "ASAC",
+        "Meaning": "Australian Sports Aviation Confederation"
+    },
+    {
+        "Acronym": "ASAP",
+        "Meaning": "As Soon as Possible",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ASC",
+        "Meaning": "Ascend to or ascending",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ASDA",
+        "Meaning": "Accelerate-stop distance available",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ASE",
+        "Meaning": "Airborne Support Equipment",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "ASE",
+        "Meaning": "Altimetry System Error",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "ASEPTA",
+        "Meaning": "Approved Single-engine Turbine Aeroplane"
+    },
+    {
+        "Acronym": "ASF",
+        "Meaning": "Aviation Safety Forum",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ASH",
+        "Meaning": "Aviation Services Handbook"
+    },
+    {
+        "Acronym": "ASI",
+        "Meaning": "Air Speed Indicator"
+    },
+    {
+        "Acronym": "ASI",
+        "Meaning": "Aviation Safety Index"
+    },
+    {
+        "Acronym": "ASIR",
+        "Meaning": "Aviation Safety Incident Report"
+    },
+    {
+        "Acronym": "ASPH",
+        "Meaning": "Asphalt",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ASR",
+        "Meaning": "Area Surveillance Radar",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ASRA",
+        "Meaning": "Australian Sport Rotorcraft Association"
+    },
+    {
+        "Acronym": "ASSI",
+        "Meaning": "Air Safety Support International- a wholly-owned subsidiary of the UK Civil Aviation Authority",
+        "Source": "Air Safety Support International (UK)"
+    },
+    {
+        "Acronym": "ASTM",
+        "Meaning": "American Society for Testing Materials"
+    },
+    {
+        "Acronym": "ASTRA",
+        "Meaning": "Australian Strategic Air Traffic Management Group"
+    },
+    {
+        "Acronym": "AT-VASIS",
+        "Meaning": "Abbreviated 'T' Visual Approach Slope Indicator System (pronounced 'AY-TEE-VASIS')",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AT...",
+        "Meaning": "At (followed by time at which weather change is forecast to occur)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ATA",
+        "Meaning": "Actual Time of Arrival",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ATA",
+        "Meaning": "Air Transport Association"
+    },
+    {
+        "Acronym": "ATC",
+        "Meaning": "Air Traffic Control (in general)",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "ATD",
+        "Meaning": "Actual Time of Departure",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ATE",
+        "Meaning": "Automatic Test Equipment",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "ATEL/ANAV",
+        "Meaning": "Aeronautical Telecommunication and Radio Navigation Services",
+        "Source": "CASR Part 171"
+    },
+    {
+        "Acronym": "ATFM",
+        "Meaning": "Air Traffic Flow Management",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ATIS",
+        "Meaning": "Automatic terminal information service",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ATM",
+        "Meaning": "Air traffic management",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "ATN",
+        "Meaning": "Aeronautical telecommunications network",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ATO",
+        "Meaning": "Aviation Testing Officer"
+    },
+    {
+        "Acronym": "ATP",
+        "Meaning": "At.. (time or place)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ATPL",
+        "Meaning": "Airline Transport Pilot Licence"
+    },
+    {
+        "Acronym": "ATS",
+        "Meaning": "Air Traffic Service(s)"
+    },
+    {
+        "Acronym": "ATSB",
+        "Meaning": "Australian Transport Safety Bureau"
+    },
+    {
+        "Acronym": "ATSO",
+        "Meaning": "Australian Technical Standard Order",
+        "Source": "CASR Part 21"
+    },
+    {
+        "Acronym": "ATSOA",
+        "Meaning": "Australian Technical Standard Order Authorisation",
+        "Source": "CASR Part 21"
+    },
+    {
+        "Acronym": "ATTN",
+        "Meaning": "Attention",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ATZ",
+        "Meaning": "Aerodrome traffic zone",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "AUF",
+        "Meaning": "Australian Ultralight Federation (now Recreational Aviation Australia)"
+    },
+    {
+        "Acronym": "AUTH",
+        "Meaning": "Authorised, Authorisation",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AUW",
+        "Meaning": "All Up Weight",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AUX",
+        "Meaning": "Auxiliary",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AVBL",
+        "Meaning": "Available",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AVG",
+        "Meaning": "Average",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AVGAS",
+        "Meaning": "Aviation Gasoline",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AVM",
+        "Meaning": "Abrupt Vertical Manoeuvres (by the MIL)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AWB",
+        "Meaning": "Airworthiness Bulletin"
+    },
+    {
+        "Acronym": "AWIB",
+        "Meaning": "Aerodrome Weather Information Broadcast",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AWK",
+        "Meaning": "Aerial Work (Air work - general aviation)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AWO",
+        "Meaning": "Aerial work operation"
+    },
+    {
+        "Acronym": "AWS",
+        "Meaning": "Automatic Weather Station",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "AWTA",
+        "Meaning": "Advise as to what time is available",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "AWY",
+        "Meaning": "Airway",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "AZM",
+        "Meaning": "Azimuth",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "B",
+        "Meaning": "Blue",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "BA",
+        "Meaning": "Braking action",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "BAK",
+        "Meaning": "Basic aeronautical knowledge"
+    },
+    {
+        "Acronym": "BASA",
+        "Meaning": "Bilateral Aviation Safety Agreement"
+    },
+    {
+        "Acronym": "BASE",
+        "Meaning": "Cloud Base (met)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BCFG",
+        "Meaning": "Fog Patches (met)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BCN",
+        "Meaning": "Beacon (aeronautical ground light)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BCST",
+        "Meaning": "Broadcast",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BDRY",
+        "Meaning": "Boundary",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BECMG",
+        "Meaning": "Becoming",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BETA",
+        "Meaning": "Manually controlled mode for constant speed propellers or turbo prop aircraft"
+    },
+    {
+        "Acronym": "BFR",
+        "Meaning": "Before",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BIP-M",
+        "Meaning": "Basic Instruction Package for Meteorologists"
+    },
+    {
+        "Acronym": "BIPMT",
+        "Meaning": "Basic Instruction Package for Meteorological Technicians"
+    },
+    {
+        "Acronym": "BITE",
+        "Meaning": "Built In Test Equipment",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "BKN",
+        "Meaning": "Broken (cloud descriptor) (met)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BL...",
+        "Meaning": "Blowing (followed by DU=dust, SA=sand or SN=snow)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BLDG",
+        "Meaning": "Building",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BLO",
+        "Meaning": "Below Clouds",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BLW",
+        "Meaning": "Below",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BOM",
+        "Meaning": "Bureau of Meteorology",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BOMB",
+        "Meaning": "Bombing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BR",
+        "Meaning": "Mist",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BRF",
+        "Meaning": "Short (used to indicate type of approach)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BRG",
+        "Meaning": "Bearing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BRKG",
+        "Meaning": "Braking",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BRW",
+        "Meaning": "Brakes release weight"
+    },
+    {
+        "Acronym": "BS",
+        "Meaning": "Broadcasting Station (Commercial)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BTL",
+        "Meaning": "Between Layers",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BTN",
+        "Meaning": "Between",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "BVLOS",
+        "Meaning": "Beyond visual line of sight"
+    },
+    {
+        "Acronym": "C",
+        "Meaning": "Degrees Celsius (Centigrade)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "C",
+        "Meaning": "Centre (Runway)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CA",
+        "Meaning": "Course Acquisition"
+    },
+    {
+        "Acronym": "CA/GRO",
+        "Meaning": "Certified Air/Ground Radio Operator",
+        "Source": "CASR Part 139"
+    },
+    {
+        "Acronym": "CA/GRS",
+        "Meaning": "Certified Air/Ground Radio Service",
+        "Source": "CASR Part 171"
+    },
+    {
+        "Acronym": "CAA NZ",
+        "Meaning": "Civil Aviation Authority New Zealand"
+    },
+    {
+        "Acronym": "CAAP",
+        "Meaning": "Civil Aviation Advisory Publication",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "CAGRO",
+        "Meaning": "Certified Air Ground Radio Operation",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "CAMO",
+        "Meaning": "Continuing Airworthiness Management Organisation"
+    },
+    {
+        "Acronym": "CAMP",
+        "Meaning": "Continuous Airworthiness Maintenance Program",
+        "Source": "CASR Part 145"
+    },
+    {
+        "Acronym": "CAO",
+        "Meaning": "Civil Aviation Order"
+    },
+    {
+        "Acronym": "CAR",
+        "Meaning": "Civil Aviation Regulations 1988"
+    },
+    {
+        "Acronym": "CAS",
+        "Meaning": "Calibrated air speed",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "CASA",
+        "Meaning": "Civil Aviation Safety Authority"
+    },
+    {
+        "Acronym": "CASR",
+        "Meaning": "Civil Aviation Safety Regulation"
+    },
+    {
+        "Acronym": "CASR",
+        "Meaning": "Civil Aviation Safety Regulations 1998"
+    },
+    {
+        "Acronym": "CAT",
+        "Meaning": "Category",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CAT",
+        "Meaning": "Clear Air Turbulence",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CAVOK",
+        "Meaning": "Visibility, cloud and present weather better than prescribed values or conditions",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CB",
+        "Meaning": "Cumulonimbus (met)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CBT",
+        "Meaning": "Competency-based Training"
+    },
+    {
+        "Acronym": "CC",
+        "Meaning": "Cirrocumulus (met)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CCA",
+        "Meaning": "Corrected meteorological message (for CCB, CCC..etc., in sequence) (message type designator)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "CCF",
+        "Meaning": "Capability Check Flight"
+    },
+    {
+        "Acronym": "CCTS",
+        "Meaning": "Circuits",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CD",
+        "Meaning": "Candela",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "CDCCL",
+        "Meaning": "Critical Design Configuration Control Limit"
+    },
+    {
+        "Acronym": "CDI",
+        "Meaning": "Course Direction Indicator"
+    },
+    {
+        "Acronym": "CDL",
+        "Meaning": "Configuration Deviation List",
+        "Source": "CASR Part 43"
+    },
+    {
+        "Acronym": "CDN",
+        "Meaning": "Coordination (message type designator)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "CEN",
+        "Meaning": "En Route and Area ATC unit",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CEO",
+        "Meaning": "Chief Executive Officer"
+    },
+    {
+        "Acronym": "CET",
+        "Meaning": "Clearance Expiry Time",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CF",
+        "Meaning": "Change Frequency to",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CFI",
+        "Meaning": "Chief Flying Instructor",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "CFIT",
+        "Meaning": "Controlled Flight into Terrain"
+    },
+    {
+        "Acronym": "CFL",
+        "Meaning": "Cleared Flight Level",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CFM",
+        "Meaning": "Confirm, I confirm",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CG",
+        "Meaning": "Centre of gravity",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "CGL",
+        "Meaning": "Circling guidance light(s)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "CH",
+        "Meaning": "This is a channel continuity check of transmission to permit comparision of your record of channel-sequence numbers of messages received on the channel (to be used in AFS as a procedure signal)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "CHG",
+        "Meaning": "Modification (message type designator)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "CHTR",
+        "Meaning": "Charter",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CI",
+        "Meaning": "Cirrus (met)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CIDIN",
+        "Meaning": "Common ICAO data interchange network",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "CIR",
+        "Meaning": "Command Instrument Rating",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "CIT",
+        "Meaning": "Near, Over Large Town(s)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CIV",
+        "Meaning": "Civil",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CK",
+        "Meaning": "Check",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CL",
+        "Meaning": "Centre Line",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CLA",
+        "Meaning": "Clear type of ice formation",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CLBR",
+        "Meaning": "Calibration",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CLD",
+        "Meaning": "Cloud (met)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CLG",
+        "Meaning": "Calling",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CLIAS",
+        "Meaning": "Climbing Indicated Airspeed",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CLMAX",
+        "Meaning": "Maximum Co-efficient of Lift"
+    },
+    {
+        "Acronym": "CLR",
+        "Meaning": "Clear, Cleared to... Clearance",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CLSD",
+        "Meaning": "Closed, Close, Closing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CM (cm)",
+        "Meaning": "Centimetre",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CMB",
+        "Meaning": "Climb to or Climbing to",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CMM",
+        "Meaning": "Component Maintenance Manual",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "CMPL",
+        "Meaning": "Configuration, Maintenance and Procedures"
+    },
+    {
+        "Acronym": "CMPL",
+        "Meaning": "Completion, Completed, or Complete",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CMR",
+        "Meaning": "Certification Maintenance Requirements"
+    },
+    {
+        "Acronym": "CMSD",
+        "Meaning": "Commissioned",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CNL",
+        "Meaning": "Cancel",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CNL",
+        "Meaning": "Flight plan cancellation message",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CNS",
+        "Meaning": "Communications, Navigation and Surveillance",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "COA",
+        "Meaning": "Certificates of Approval (issued to maintenance organisations)",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "CofA",
+        "Meaning": "Certificate of Airworthiness",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "COM",
+        "Meaning": "Communications",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CONC",
+        "Meaning": "Concrete",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "COND",
+        "Meaning": "Condition",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CONS",
+        "Meaning": "Continuous",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CONST",
+        "Meaning": "Construction, Constructed",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CONT",
+        "Meaning": "Continue(s), Continued",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "COOR",
+        "Meaning": "Coordinate, Coordinated",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "COORD",
+        "Meaning": "Coordinates",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "COP",
+        "Meaning": "Change over point",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "CoR",
+        "Meaning": "Certificate of Registration",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "COR",
+        "Meaning": "Correct, Corrected, Correction",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "COS",
+        "Meaning": "Conical Surface",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "COT",
+        "Meaning": "At the Coast, Coastal",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "COV",
+        "Meaning": "Cover, Covered, Covering",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CP",
+        "Meaning": "Chief Pilot",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "CPDLC",
+        "Meaning": "Controller-Pilot Data Link Communication",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "CPL",
+        "Meaning": "Commercial Pilot Licence",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "CPL",
+        "Meaning": "Current flight plan",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "CRC",
+        "Meaning": "Cyclic redundancy check",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "CRIS",
+        "Meaning": "Cost Recovery Impact Statement",
+        "Source": "Department of Finance"
+    },
+    {
+        "Acronym": "CRM",
+        "Meaning": "Crew Resource Management",
+        "Source": "CASR Part 121"
+    },
+    {
+        "Acronym": "CRZ",
+        "Meaning": "Cruise",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CS",
+        "Meaning": "Cirrostratus (met)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CS",
+        "Meaning": "Call sign",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CSDD",
+        "Meaning": "Common Support Data Dictionary published by the Air Transport Association of America (ATA). The CSDD replaces the WATOG."
+    },
+    {
+        "Acronym": "CSU",
+        "Meaning": "Constant Speed Unit"
+    },
+    {
+        "Acronym": "CTA",
+        "Meaning": "Control Area",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CTAF",
+        "Meaning": "Common Traffic Advisory Frequency",
+        "Source": "CASR Part 172/AIP"
+    },
+    {
+        "Acronym": "CTAF(R)",
+        "Meaning": "Common Traffic Advisory Frequency - (Radio)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CTAM",
+        "Meaning": "Climb to and maintain",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "CTC",
+        "Meaning": "Category Technical Competency",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "CTC",
+        "Meaning": "Contact",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "CTL",
+        "Meaning": "Control",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CTN",
+        "Meaning": "Caution",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CTR",
+        "Meaning": "Control Zone",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "CU",
+        "Meaning": "Cumulus (met)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CUF",
+        "Meaning": "Cumuliform (met)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CUST",
+        "Meaning": "Customs",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "CVR",
+        "Meaning": "Cockpit voice recorder",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "CW",
+        "Meaning": "Carrier Wave",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "CWY",
+        "Meaning": "Clearway",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "D",
+        "Meaning": "Deleted",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "D",
+        "Meaning": "Downward (tendency in RVR (Runway visual range) during previous 10 minutes)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "D-ATIS",
+        "Meaning": "Data Link Automatic Terminal Information Service (pronounced'DEE-ATIS')",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "D-VOLMET",
+        "Meaning": "Data Link VOLMET",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "D...",
+        "Meaning": "Danger Area (followed by identification)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DA",
+        "Meaning": "Decision Altitude",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DA/H",
+        "Meaning": "Decision Altitude/Height",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "DALR",
+        "Meaning": "Dry Adiabatic Lapse Rate"
+    },
+    {
+        "Acronym": "DAME",
+        "Meaning": "Designated Aviation Medical Examiner",
+        "Source": "CASR Part 67"
+    },
+    {
+        "Acronym": "DAO",
+        "Meaning": "Designated Aviation Ophthamologist",
+        "Source": "CASR Part 67"
+    },
+    {
+        "Acronym": "DAP",
+        "Meaning": "Departure and Approach Procedures",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "DCD",
+        "Meaning": "Double channel duplex",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "DCKG",
+        "Meaning": "Docking",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DCMSD",
+        "Meaning": "Decommissioned",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DCPC",
+        "Meaning": "Direct Controller-Pilot Communications",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DCS",
+        "Meaning": "Double channel simplex",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "DCT",
+        "Meaning": "Direct (in relation to flight plan clearances and type of approach)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DE",
+        "Meaning": "Form (used to preceed the call sign of the calling station) (to be used in AFS as a procedure signal)",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "DEC",
+        "Meaning": "December",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DEG",
+        "Meaning": "Degrees",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DEP",
+        "Meaning": "Depart, Departure, Departed, Departing, Departure Message",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DEPS",
+        "Meaning": "Departures"
+    },
+    {
+        "Acronym": "DER",
+        "Meaning": "Departure End of Runway",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "DER",
+        "Meaning": "Designated Engineering Representative",
+        "Source": "FAR"
+    },
+    {
+        "Acronym": "DES",
+        "Meaning": "Descend to, Descending to",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DEST",
+        "Meaning": "Destination",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DETRESFA",
+        "Meaning": "Distress Phase",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DEV",
+        "Meaning": "Deviation, Deviating",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DF",
+        "Meaning": "Direction Finder/ Finding",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DFDR",
+        "Meaning": "Digital Flight Data Recorder",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DFTI",
+        "Meaning": "Distance from touchdown indicator",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "DGA",
+        "Meaning": "Distance Measuring Equipment or Global Positioning Satellite System Arrival"
+    },
+    {
+        "Acronym": "DH",
+        "Meaning": "Decision Height",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "DIF",
+        "Meaning": "Diffuse",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DISP",
+        "Meaning": "Displaced",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DIST",
+        "Meaning": "Distance",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DIV",
+        "Meaning": "Diversion, Divert, Diverting",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DLA",
+        "Meaning": "Delay (message type designator)",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "DLIC",
+        "Meaning": "Data Link Initiation Capability",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DLY",
+        "Meaning": "Daily",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DMC",
+        "Meaning": "Direct Maintenance Cost",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "DME",
+        "Meaning": "Distance Measuring Equipment",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "DMEN",
+        "Meaning": "DME (International)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DMEP",
+        "Meaning": "DME (International Precision used in conjunction with Microwave Landing System)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DNG",
+        "Meaning": "Danger, Dangerous",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DOC",
+        "Meaning": "Direct Operating Cost",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "DOC",
+        "Meaning": "Documents",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DoD",
+        "Meaning": "Department of Defence"
+    },
+    {
+        "Acronym": "DOM",
+        "Meaning": "Domestic",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DP",
+        "Meaning": "Dew Point Temperature",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "DP",
+        "Meaning": "Discussion Paper",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "DPT",
+        "Meaning": "Depth",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DR",
+        "Meaning": "Dead Reckoning (navigation)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "DR...",
+        "Meaning": "Low drifting (followed by DU=dust, SA=sand or SN=snow)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DRG",
+        "Meaning": "During",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DS",
+        "Meaning": "Dust storm",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DSB",
+        "Meaning": "Double sideband",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "DTAM",
+        "Meaning": "Descend to And Maintain",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DTG",
+        "Meaning": "Date-Time Group",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DTHR",
+        "Meaning": "Displaced Runway Threshold",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DTRT",
+        "Meaning": "Deteriorate, Deteriorating",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DTW",
+        "Meaning": "Dual tandem wheels",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "DU",
+        "Meaning": "Dust",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DUC",
+        "Meaning": "Dense Upper Cloud (met)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DUPE",
+        "Meaning": "This is a duplicate message (to be used in Aeronautical Fixed Service as a procedure signal)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "DUR",
+        "Meaning": "Duration",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DVOR",
+        "Meaning": "Doppler VOR",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "DW",
+        "Meaning": "Dual wheels",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "DZ",
+        "Meaning": "Drizzle",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "E",
+        "Meaning": "East, East Longitude",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "E E E",
+        "Meaning": "Error (to be used in AFS as a procedure signal)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "EASA",
+        "Meaning": "European Aviation Safety Agency"
+    },
+    {
+        "Acronym": "EAT",
+        "Meaning": "Expected Approach Time",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "EB",
+        "Meaning": "Eastbound",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ECAR",
+        "Meaning": "European Civil Aviation Requirement (formerly JAR)"
+    },
+    {
+        "Acronym": "EDTO",
+        "Meaning": "Extended Diversion Time Operations"
+    },
+    {
+        "Acronym": "EET",
+        "Meaning": "Estimated Elapsed Time",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "EFB",
+        "Meaning": "Electronic Flight Bag"
+    },
+    {
+        "Acronym": "EFC",
+        "Meaning": "Expect further clearance",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "EGNOS",
+        "Meaning": "European Geostationary Navigation Overlay System"
+    },
+    {
+        "Acronym": "EGPWS",
+        "Meaning": "Enhanced Ground Proximity Warning System",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "EHF",
+        "Meaning": "Extremely high frequency (30,000 to 300,000 MHz)",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "EHR",
+        "Meaning": "Encumbrance Holder Register",
+        "Source": "CASR Part 47"
+    },
+    {
+        "Acronym": "ELBA",
+        "Meaning": "Emergency locator beacon-aircraft",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ELEV",
+        "Meaning": "Elevation",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ELR",
+        "Meaning": "Extra Long Range",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ELT(S)",
+        "Meaning": "Emergency Locator Transmitter (Survival)",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "EM",
+        "Meaning": "Engine Manual",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "EM",
+        "Meaning": "Explanatory Memorandum (submitted to EXCO with regulation amendment)"
+    },
+    {
+        "Acronym": "EM",
+        "Meaning": "Emission",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "EMBD",
+        "Meaning": "Embedded in a Layer (to indicate cumulonimbus embedded in layers of other clouds)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "EMERG",
+        "Meaning": "Emergency",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "EMS",
+        "Meaning": "Emergency Medical Service"
+    },
+    {
+        "Acronym": "EMS",
+        "Meaning": "Environment Management System"
+    },
+    {
+        "Acronym": "END",
+        "Meaning": "Stop-end (related to RVR)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ENDCE",
+        "Meaning": "Endurance",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ENE",
+        "Meaning": "East North-East",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ENG",
+        "Meaning": "Engine",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ENR",
+        "Meaning": "En Route",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ENRC",
+        "Meaning": "En Route Chart (followed by name/title)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "EOBT",
+        "Meaning": "Estimated off Blocks Time",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "EPA",
+        "Meaning": "Environment Protection Agency"
+    },
+    {
+        "Acronym": "EPIRB",
+        "Meaning": "Electronic Position Indicating Radio Beacon (marine term.)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "EQPT",
+        "Meaning": "Equipment",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ER",
+        "Meaning": "Here..or herewith",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ERC",
+        "Meaning": "En-route Chart",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ERP",
+        "Meaning": "Emergency Response Plan"
+    },
+    {
+        "Acronym": "ERSA",
+        "Meaning": "En-route Supplement Australia",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "ES",
+        "Meaning": "Explanatory Statement (tabled with regulations in Parliament)"
+    },
+    {
+        "Acronym": "ESD",
+        "Meaning": "Electrostatic sensitive discharge"
+    },
+    {
+        "Acronym": "ESDE",
+        "Meaning": "ESD equipment"
+    },
+    {
+        "Acronym": "ESE",
+        "Meaning": "East Southeast",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ESIR",
+        "Meaning": "Electronic safety incident report"
+    },
+    {
+        "Acronym": "EST",
+        "Meaning": "Estimate or estimated or estimate (message type designator)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ETA",
+        "Meaning": "Estimated Time of Arrival, Estimating Arrival",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ETCM",
+        "Meaning": "Engine trend and condition monitoring"
+    },
+    {
+        "Acronym": "ETD",
+        "Meaning": "Estimated Time of Departure, Estimating Departure",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ETO",
+        "Meaning": "Estimated Time Over significant point",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ETOPS",
+        "Meaning": "Extended range operations by turbine-engined aeroplanes",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ETP",
+        "Meaning": "Equi Time Interval"
+    },
+    {
+        "Acronym": "ETT",
+        "Meaning": "Estimated Time Interval"
+    },
+    {
+        "Acronym": "EV",
+        "Meaning": "Every",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "EVLOS",
+        "Meaning": "Extended visual line of sight"
+    },
+    {
+        "Acronym": "EVU",
+        "Meaning": "Enforceable Voluntary Undertaking",
+        "Source": "Civil Aviation Act 1988"
+    },
+    {
+        "Acronym": "EXC",
+        "Meaning": "Except",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "EXCO",
+        "Meaning": "Executive Council"
+    },
+    {
+        "Acronym": "EXER",
+        "Meaning": "Exercises, Exercising, to exercise",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "EXP",
+        "Meaning": "Expect, Expected, Expecting",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "EXTD",
+        "Meaning": "Extend, Extending, Extended",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "F",
+        "Meaning": "Fixed (chart symbol)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FAA",
+        "Meaning": "Federal Aviation Administration of the USA"
+    },
+    {
+        "Acronym": "FAAOC",
+        "Meaning": "Foreign Aircraft Air Operator's Certificate",
+        "Source": "CASR Part 129"
+    },
+    {
+        "Acronym": "FAC",
+        "Meaning": "Facility, Facilities",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FADEC",
+        "Meaning": "Full Authority Digital Engine Control"
+    },
+    {
+        "Acronym": "FAF",
+        "Meaning": "Final Approach Fix",
+        "Source": "AIP/ICAO"
+    },
+    {
+        "Acronym": "FAL",
+        "Meaning": "Facilitation of International Air",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FAP",
+        "Meaning": "Final Approach Point",
+        "Source": "AIP/ICAO"
+    },
+    {
+        "Acronym": "FARs",
+        "Meaning": "Federal Aviation Regulations (Federal Aviation Administration of the USA)"
+    },
+    {
+        "Acronym": "FATO",
+        "Meaning": "Final approach and take-off area",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "FAWP",
+        "Meaning": "Final Approach Waypoint",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FAX",
+        "Meaning": "Facsimile Transmission",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FBL",
+        "Meaning": "Light (used to indicate the intensity of WX phenomena, interference or static reports, eg BL RA = light rain)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FC",
+        "Meaning": "Funnel Cloud (tornado or water spout)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FCST",
+        "Meaning": "Forecast",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FCT",
+        "Meaning": "Friction coefficient",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "FD",
+        "Meaning": "Fault Detection"
+    },
+    {
+        "Acronym": "FDE",
+        "Meaning": "Fault detection and exclusion (in relation to GPS equipment)"
+    },
+    {
+        "Acronym": "FDL",
+        "Meaning": "Fixed Distance Lighting",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FDPS",
+        "Meaning": "Flight Data Processing system",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FDS",
+        "Meaning": "Flight Director System"
+    },
+    {
+        "Acronym": "FEW",
+        "Meaning": "Few (cloud descriptor)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FFR",
+        "Meaning": "Flood, Fire Relief",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FG",
+        "Meaning": "Fog",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FIA",
+        "Meaning": "Flight Information Area",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FIC",
+        "Meaning": "Flight Information Centre",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FIO",
+        "Meaning": "Flight Information Office",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FIR",
+        "Meaning": "Flight Information Region",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "FISA",
+        "Meaning": "Flight information service (automated)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "FISS",
+        "Meaning": "Flight Information Service Station",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FIX",
+        "Meaning": "Fault Isolation Manual",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "FL",
+        "Meaning": "Flight Level",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "FLD",
+        "Meaning": "Field",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FLG",
+        "Meaning": "Flashing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FLIR",
+        "Meaning": "Forward Looking Infra Red"
+    },
+    {
+        "Acronym": "FLR",
+        "Meaning": "Flares",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FLT",
+        "Meaning": "Flight",
+        "Source": "ICAO/WATOG/AIP"
+    },
+    {
+        "Acronym": "FLTCK",
+        "Meaning": "Flight check",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "FLUC",
+        "Meaning": "Fluctuating, Fluctuation, Fluctuated",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FLW",
+        "Meaning": "Follow(s), Following",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FLY",
+        "Meaning": "Fly, Flying",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FM",
+        "Meaning": "From",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FM...",
+        "Meaning": "From (followed by time weather change is forecast to begin)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FMS",
+        "Meaning": "Flight Management System",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "FMU",
+        "Meaning": "Flow Management Unit",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FNA",
+        "Meaning": "Final Approach",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FNPT",
+        "Meaning": "Flight and Navigation Procedures Trainer",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "FOD",
+        "Meaning": "Foreign Object Damage",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "FOI",
+        "Meaning": "Flying Operations Inspector"
+    },
+    {
+        "Acronym": "FPD",
+        "Meaning": "Flight Plan Designator",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FPL",
+        "Meaning": "Filed Flight Plan Message",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FPM",
+        "Meaning": "Feet per Minute",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FPR",
+        "Meaning": "Flight Plan Route",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FPV",
+        "Meaning": "First person view"
+    },
+    {
+        "Acronym": "FR",
+        "Meaning": "Fuel Remaining",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FREQ",
+        "Meaning": "Frequency",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FRM",
+        "Meaning": "Fault Reporting Manual",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "FRMS",
+        "Meaning": "Fatigue Risk Management System"
+    },
+    {
+        "Acronym": "FRNG",
+        "Meaning": "Firing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FRONT",
+        "Meaning": "Front (relating to weather)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "FRQ",
+        "Meaning": "Frequent",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FS",
+        "Meaning": "Flight Service (in general)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FSA",
+        "Meaning": "Flight Safety Australia"
+    },
+    {
+        "Acronym": "FSL",
+        "Meaning": "Full Stop Landing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FSP",
+        "Meaning": "Fish Spotting",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FSS",
+        "Meaning": "Flight service station",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "FST",
+        "Meaning": "First",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FT",
+        "Meaning": "Feet",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FTD",
+        "Meaning": "Flight training device",
+        "Source": "CASR Part 60"
+    },
+    {
+        "Acronym": "FTE",
+        "Meaning": "Full time equivalent"
+    },
+    {
+        "Acronym": "FTO",
+        "Meaning": "Flight Training Organisation"
+    },
+    {
+        "Acronym": "FU",
+        "Meaning": "Smoke",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FXD",
+        "Meaning": "Fixed",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FZ",
+        "Meaning": "Freezing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FZDZ",
+        "Meaning": "Freezing Drizzle",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FZFG",
+        "Meaning": "Freezing Fog",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FZL",
+        "Meaning": "Freezing Level",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "FZRA",
+        "Meaning": "Freezing Rain",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "G",
+        "Meaning": "Gravity"
+    },
+    {
+        "Acronym": "G",
+        "Meaning": "Green",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "G/A",
+        "Meaning": "Ground-to-air",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "G/A/G",
+        "Meaning": "Ground-to-air and air-to-ground",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "GA",
+        "Meaning": "Go ahead, resume sending (to be used in AFS as a procedure signal)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "GA",
+        "Meaning": "General Aviation",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "GAAP",
+        "Meaning": "General Aviation Aerodrome Procedures",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GAMET",
+        "Meaning": "Area forecast for low-level flights",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "GAPAN",
+        "Meaning": "Honourable Company of Air Pilots, Australia, Inc."
+    },
+    {
+        "Acronym": "GBAS",
+        "Meaning": "Ground Based Augmentation System"
+    },
+    {
+        "Acronym": "GCA",
+        "Meaning": "Ground Controlled Approach",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GCN",
+        "Meaning": "General Computing Network (operated by Airservices Australia)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GDOP",
+        "Meaning": "Geometric Dilution of Precision"
+    },
+    {
+        "Acronym": "GEN",
+        "Meaning": "General",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GEO",
+        "Meaning": "Geographic, true",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GES",
+        "Meaning": "Ground Earth Station",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GFA",
+        "Meaning": "The Gliding Federation of Australia"
+    },
+    {
+        "Acronym": "GFY",
+        "Meaning": "Glider Flying",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GHA",
+        "Meaning": "Ground handling agents"
+    },
+    {
+        "Acronym": "GIVD",
+        "Meaning": "Gravity Induced Vestibular Dysfunction"
+    },
+    {
+        "Acronym": "GLD",
+        "Meaning": "Glider",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GLOC",
+        "Meaning": "Gravity Induced Loss of Consciousness"
+    },
+    {
+        "Acronym": "GLONASS",
+        "Meaning": "Global Orbiting Navigation Satellite System (pronounced 'GLO-NAS')",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GM",
+        "Meaning": "Guidance Material"
+    },
+    {
+        "Acronym": "GMC",
+        "Meaning": "Ground Movement Chart (followed by name/title)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GND",
+        "Meaning": "Ground",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GNDCK",
+        "Meaning": "Ground Check",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GNS",
+        "Meaning": "Global Navigation System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GNSS",
+        "Meaning": "Global navigation satellite system",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "GP",
+        "Meaning": "Guiding principles",
+        "Source": "CAR 1998"
+    },
+    {
+        "Acronym": "GP",
+        "Meaning": "Glide Path",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "GP",
+        "Meaning": "FLG Group Flashing (number) (used in conjunction with aerodrome lighting)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GPI",
+        "Meaning": "Glide Path Intercept",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GPS",
+        "Meaning": "Global positioning system (see GNSS)"
+    },
+    {
+        "Acronym": "GPWS",
+        "Meaning": "Ground proximity warning system"
+    },
+    {
+        "Acronym": "GR",
+        "Meaning": "Hail",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GRAD",
+        "Meaning": "Minimum Required Climb Gradient",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GRAS",
+        "Meaning": "Ground Based Regional Augmentation System"
+    },
+    {
+        "Acronym": "GRASS",
+        "Meaning": "Grass Landing Area",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GRIB",
+        "Meaning": "Processed meteoroglogical data in the form of grid point values expressed in binary form (aeronautical meterological code)",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "GRVL",
+        "Meaning": "Gravel",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GS",
+        "Meaning": "Groundspeed",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GS",
+        "Meaning": "Small Hail and/or Snow Pellets",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "GSE",
+        "Meaning": "Ground Support Equipment",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "GT",
+        "Meaning": "Greater than"
+    },
+    {
+        "Acronym": "GUND",
+        "Meaning": "Geoid Undulation",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "H24",
+        "Meaning": "Continuous day and night service",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HAA",
+        "Meaning": "Height Above Aerodrome",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HAA",
+        "Meaning": "Helicopter Association of Australia"
+    },
+    {
+        "Acronym": "HAAMC",
+        "Meaning": "Head of Aircraft Airworthiness and Maintenance Control",
+        "Source": "Aviation Law in Australia, 2004 edition"
+    },
+    {
+        "Acronym": "HAM",
+        "Meaning": "Head of Aircraft Maintenance",
+        "Source": "CASR Part 145"
+    },
+    {
+        "Acronym": "HAMC",
+        "Meaning": "Head of Aircraft Maintenance Control",
+        "Source": "CASR Part 145"
+    },
+    {
+        "Acronym": "HAPI",
+        "Meaning": "Helicopter approach path indicator",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "HAT",
+        "Meaning": "Height Above Threshold",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HBN",
+        "Meaning": "Hazard Beacon",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HDF",
+        "Meaning": "High frequency direction-finding station",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "HDG",
+        "Meaning": "Heading",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HDS",
+        "Meaning": "Hours of Daylight Saving",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HEL",
+        "Meaning": "Helicopter",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HF",
+        "Meaning": "Human Factors"
+    },
+    {
+        "Acronym": "HF",
+        "Meaning": "High Frequency (3000 to 30,000 KHZ)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HFEM",
+        "Meaning": "Human Factor and Error Management System"
+    },
+    {
+        "Acronym": "HGFA",
+        "Meaning": "Hang Gliding Federation of Australia Inc"
+    },
+    {
+        "Acronym": "HGS",
+        "Meaning": "Heads-up Guidance System"
+    },
+    {
+        "Acronym": "HGT",
+        "Meaning": "Height, Height Above",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HIAL",
+        "Meaning": "High Intensity Approach Lighting",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HIOL",
+        "Meaning": "High Intensity Obstacle Lights",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HIRL",
+        "Meaning": "High Intensity Runway Lighting",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HJ",
+        "Meaning": "Sunrise to Sunset",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HLDG",
+        "Meaning": "Holding",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HLS",
+        "Meaning": "Helicopter Landing Site",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HMI",
+        "Meaning": "Human-machine Interface"
+    },
+    {
+        "Acronym": "HN",
+        "Meaning": "Sunset to Sunrise",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HO",
+        "Meaning": "Service available to meet operational requirements",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HOFO",
+        "Meaning": "Head of Flying Operations"
+    },
+    {
+        "Acronym": "HOO",
+        "Meaning": "Head of Operations"
+    },
+    {
+        "Acronym": "HOSP",
+        "Meaning": "Hospital Aircraft"
+    },
+    {
+        "Acronym": "HOTAS",
+        "Meaning": "Head of Training and Standards",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HOTC",
+        "Meaning": "Head of Training and Checking"
+    },
+    {
+        "Acronym": "HP",
+        "Meaning": "Horse Power"
+    },
+    {
+        "Acronym": "HPA",
+        "Meaning": "HectoPascal"
+    },
+    {
+        "Acronym": "HR",
+        "Meaning": "Hours",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HS",
+        "Meaning": "Homestead",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HS",
+        "Meaning": "Service available during hours of scheduled operations",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HSL",
+        "Meaning": "Hold Short Lights",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HUD",
+        "Meaning": "Head Up Display",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HURCN",
+        "Meaning": "Hurricane"
+    },
+    {
+        "Acronym": "HVDF",
+        "Meaning": "High and very high frequency direction finding stations (at the same location)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HVY",
+        "Meaning": "Heavy",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HVY",
+        "Meaning": "Heavy (used to indicate the intensity of WX phenomena, eg HVY RA = heavy rain)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HX",
+        "Meaning": "No specific working hours",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HYR",
+        "Meaning": "Higher",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HZ",
+        "Meaning": "Haze",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HZ (hz)",
+        "Meaning": "Hertz",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "HZS",
+        "Meaning": "Horizontal Surface",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IA",
+        "Meaning": "Inspection authorisation",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IAC",
+        "Meaning": "Instrument approach chart (followed by name/title)",
+        "Source": "FAR"
+    },
+    {
+        "Acronym": "IAF",
+        "Meaning": "Initial Approach Fix",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "IAL",
+        "Meaning": "Instrument Approach and Landing Chart",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IAO",
+        "Meaning": "In and out of clouds",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IAP",
+        "Meaning": "Instrument Approach Plate",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IAR",
+        "Meaning": "Intersection of air routes"
+    },
+    {
+        "Acronym": "IAS",
+        "Meaning": "Indicated air speed",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "IATA",
+        "Meaning": "International Air Transport Association",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "IAW",
+        "Meaning": "In Accordance With"
+    },
+    {
+        "Acronym": "IAWP",
+        "Meaning": "Initial Approach Way-point"
+    },
+    {
+        "Acronym": "IBN",
+        "Meaning": "Identification Beacon",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IC",
+        "Meaning": "Ice Crystals (MET code)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ICA",
+        "Meaning": "Instructions for continuing airworthiness (issued by manufacturer or designer)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ICAO",
+        "Meaning": "International Civil Aviation Organization",
+        "Source": "CAR 1998"
+    },
+    {
+        "Acronym": "ICE",
+        "Meaning": "Icing, Ice",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "ICUS",
+        "Meaning": "In-command Under Supervision",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ID",
+        "Meaning": "Identifier, identify"
+    },
+    {
+        "Acronym": "IDENT",
+        "Meaning": "Identification",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IF",
+        "Meaning": "Instrument Flight",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IF",
+        "Meaning": "Intermediate Approach Fix"
+    },
+    {
+        "Acronym": "IFF",
+        "Meaning": "Identification Friend/Foe",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IFR",
+        "Meaning": "Instrument flight rules",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IFSD",
+        "Meaning": "In-flight Shutdown",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "IG",
+        "Meaning": "Implementation Group"
+    },
+    {
+        "Acronym": "IGA",
+        "Meaning": "International general aviation"
+    },
+    {
+        "Acronym": "ILS",
+        "Meaning": "Instrument Landing System",
+        "Source": "/AIPICAO"
+    },
+    {
+        "Acronym": "IM",
+        "Meaning": "Inner Marker",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IMC",
+        "Meaning": "Instrument meteorological conditions (other than VMC)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IMC",
+        "Meaning": "Indirect Maintenance Cost",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "IMG",
+        "Meaning": "Immigration",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "IMI",
+        "Meaning": "Interrogation sign",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IMPR",
+        "Meaning": "Improve, Improving, Improvement",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "IMT",
+        "Meaning": "Immediate, Immediately",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INA",
+        "Meaning": "Initial approach",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INBD",
+        "Meaning": "Inbound",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "INC",
+        "Meaning": "In Cloud",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INCERFA",
+        "Meaning": "Uncertainty Phase",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INFO",
+        "Meaning": "Information",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INOP",
+        "Meaning": "Inoperative",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INP",
+        "Meaning": "If not possible",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INPR",
+        "Meaning": "In progress",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "INS",
+        "Meaning": "Inertial Navigation System",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "INSTL",
+        "Meaning": "Install, Installed, Installation",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INSTR",
+        "Meaning": "Instrument",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INT",
+        "Meaning": "Intersection",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INTER",
+        "Meaning": "Intermittent, Intermittently (meteorological)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INTL",
+        "Meaning": "International",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INTRG",
+        "Meaning": "Interrogator",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INTRP",
+        "Meaning": "Interrupt, Interruption, Interrupted",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INTSF",
+        "Meaning": "Intensify, Intensifying",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "INTST",
+        "Meaning": "Intensity",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IoA",
+        "Meaning": "Instrument of appointment",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IOC",
+        "Meaning": "Indirect Operating Cost",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "IOE",
+        "Meaning": "Initial Operational Experience",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "IPC",
+        "Meaning": "Illustrated Parts Catalogue"
+    },
+    {
+        "Acronym": "IR",
+        "Meaning": "Ice on runway",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "IREX",
+        "Meaning": "Instrument Training Examination",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "IRM",
+        "Meaning": "Immediately Reportable Matters",
+        "Source": "ATSB"
+    },
+    {
+        "Acronym": "IRS",
+        "Meaning": "Internal Reporting System"
+    },
+    {
+        "Acronym": "ISA",
+        "Meaning": "International Standard Atmosphere"
+    },
+    {
+        "Acronym": "ISB",
+        "Meaning": "Independent Sideband",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ISIM",
+        "Meaning": "Integrated Safety Investigation Methodology",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "ISO9000",
+        "Meaning": "International Organization for Standardization"
+    },
+    {
+        "Acronym": "ISOL",
+        "Meaning": "Isolated"
+    },
+    {
+        "Acronym": "ITT",
+        "Meaning": "Interstage Turbine Temperature",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "IWI",
+        "Meaning": "Illuminated Wind Indicator"
+    },
+    {
+        "Acronym": "IWP",
+        "Meaning": "Intermediate Way-point",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "J-BAR",
+        "Meaning": "Jet Barrier",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "JAA",
+        "Meaning": "Joint Aviation Authorities (of Europe)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "JAR",
+        "Meaning": "Joint Aviation Requirements (of the European JAA)"
+    },
+    {
+        "Acronym": "JAR-OPS",
+        "Meaning": "JAR Operations",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "JTSO",
+        "Meaning": "Joint Technical Standard Order",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "JTST",
+        "Meaning": "Jet Stream",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "KDR",
+        "Meaning": "Knowledge Deficiency Report",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "KG (kg)",
+        "Meaning": "Kilograms",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "KHZ (kHz)",
+        "Meaning": "Kilohertz"
+    },
+    {
+        "Acronym": "KM (km)",
+        "Meaning": "Kilometers",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "KMH (km/h)",
+        "Meaning": "Kilometers per hour",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "KPA (kPa)",
+        "Meaning": "Kilopascals",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "KT (kt)",
+        "Meaning": "Knots",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "KW (kw)",
+        "Meaning": "Kilowatts",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "L",
+        "Meaning": "Left (runway identification)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "L",
+        "Meaning": "Locator (see LM, LO)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LAAS",
+        "Meaning": "Local Area Augmentation System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LAHSO",
+        "Meaning": "Land and Hold Short Operations",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LAME",
+        "Meaning": "Licensed Aircraft Maintenance Engineer"
+    },
+    {
+        "Acronym": "LAN",
+        "Meaning": "Inland",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LAT",
+        "Meaning": "Latitude",
+        "Source": "CASR Part 66"
+    },
+    {
+        "Acronym": "LDA",
+        "Meaning": "Landing distance available",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LDG",
+        "Meaning": "Landing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LDI",
+        "Meaning": "Landing Direction Indicator",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "LDP",
+        "Meaning": "Landing decision point",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LEN",
+        "Meaning": "Length",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LF",
+        "Meaning": "Low Frequency (30 to 300 KHZ)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "LGT",
+        "Meaning": "Light, Lighting",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LGTD",
+        "Meaning": "Lighted",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LIH",
+        "Meaning": "Light Intensity High",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LIL",
+        "Meaning": "Light Intensity Low",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LIM",
+        "Meaning": "Light Intensity Medium",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LIOL",
+        "Meaning": "Low Intensity Obstacle Lights",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LIRL",
+        "Meaning": "Low Intensity Runway Lights",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LJR",
+        "Meaning": "Low Jet Route",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LL",
+        "Meaning": "Lower Limit",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LLN",
+        "Meaning": "Low-level Navigation (by the MIL)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LLO",
+        "Meaning": "Low Level Operations (by the MIL)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LLZ",
+        "Meaning": "Localizer",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LM",
+        "Meaning": "Locator (middle)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LMT",
+        "Meaning": "Local mean time",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LO",
+        "Meaning": "Locator (outer)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LOC",
+        "Meaning": "Locally, Location, Located, Local",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LOE",
+        "Meaning": "Lane of Entry",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LONG",
+        "Meaning": "Longitude",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LOSA",
+        "Meaning": "Line Operations Safety Audit",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LPT",
+        "Meaning": "Liquid Penetrant Test",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LRCS",
+        "Meaning": "Long-range communication system"
+    },
+    {
+        "Acronym": "LRG",
+        "Meaning": "Long Range"
+    },
+    {
+        "Acronym": "LRI",
+        "Meaning": "Line Replaceable Item",
+        "Source": "FAR"
+    },
+    {
+        "Acronym": "LRNS",
+        "Meaning": "Long-range navigation system",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LRU",
+        "Meaning": "Line Replaceable Unit",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "LSA",
+        "Meaning": "Light Sport Aircraft",
+        "Source": "FAR"
+    },
+    {
+        "Acronym": "LSALT",
+        "Meaning": "Lowest safe altitude",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "LSd",
+        "Meaning": "CASA's Legal Services Division"
+    },
+    {
+        "Acronym": "LT",
+        "Meaning": "Less than"
+    },
+    {
+        "Acronym": "LTD",
+        "Meaning": "Limited"
+    },
+    {
+        "Acronym": "LUL",
+        "Meaning": "Lowest Usable Level",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "LV",
+        "Meaning": "Light and Variable (relating to wind)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LVE",
+        "Meaning": "Leave, Leaving",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LVL",
+        "Meaning": "Level",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "LYR",
+        "Meaning": "Layer, Layered",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "M",
+        "Meaning": "Mach number (followed by figures ie .02 = Mach .02)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "M (m)",
+        "Meaning": "Metres (preceded by figures)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "M/E",
+        "Meaning": "Multi-engine",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MAAT",
+        "Meaning": "Manual Authoring and Assessment Tool",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "MAE",
+        "Meaning": "Men and Equipment"
+    },
+    {
+        "Acronym": "MAG",
+        "Meaning": "Magnetic"
+    },
+    {
+        "Acronym": "MAHWP",
+        "Meaning": "Missed Approach Holding Way-point",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MAINT",
+        "Meaning": "Maintenance",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MAN",
+        "Meaning": "Manual",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MAP",
+        "Meaning": "Aeronautical Maps and Charts",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MAP",
+        "Meaning": "Manifold Air Pressure",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MAPT",
+        "Meaning": "Missed Approach Point",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MAR",
+        "Meaning": "At Sea"
+    },
+    {
+        "Acronym": "MAUW",
+        "Meaning": "Maximum All Up Weight",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MAWP",
+        "Meaning": "Missed Approach Waypoint",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MAX",
+        "Meaning": "Maximum"
+    },
+    {
+        "Acronym": "MBST",
+        "Meaning": "Microburst",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MBZ",
+        "Meaning": "Mandatory Broadcast Zone",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MCC",
+        "Meaning": "Multi-crew Co-ordination",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "MCM",
+        "Meaning": "Maintenance control manual",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "MCQFS",
+        "Meaning": "Manual of criteria for the qualification of flight simulators ICAO Doc 9625-AN/938"
+    },
+    {
+        "Acronym": "MCUR",
+        "Meaning": "Mean Cycles Between Unscheduled Removals",
+        "Source": "CASR Part 145"
+    },
+    {
+        "Acronym": "MCW",
+        "Meaning": "Modulated Continuous Wave",
+        "Source": "CASR Part 60"
+    },
+    {
+        "Acronym": "MDA",
+        "Meaning": "Minimum Descent Altitude",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "MDF",
+        "Meaning": "Medium Frequency Direction Finding Station",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MDR",
+        "Meaning": "Major Defect Report",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MEA",
+        "Meaning": "Minimum En-route Altitude",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MED",
+        "Meaning": "Medical",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "MEL",
+        "Meaning": "Minimum equipment list",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MERSITAB",
+        "Meaning": "Manufacturing, Engineering and Related Services Industry Training Advisory Body",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MET",
+        "Meaning": "Meteorological, Meteorology",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "MET",
+        "Meaning": "REPORT Aviation routine weather report",
+        "Source": "CASR Part 66"
+    },
+    {
+        "Acronym": "METAR",
+        "Meaning": "Aviation routine weather report (in aeronautical meteorological code)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "METRAD",
+        "Meaning": "MET Radar",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MF",
+        "Meaning": "Medium Frequency (300 to 3000 KHZ)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MHZ (mhz)",
+        "Meaning": "Megahertz",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MIFG",
+        "Meaning": "Shallow Fog",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MIL",
+        "Meaning": "Military",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MIL-STD",
+        "Meaning": "Military Standard",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MIN",
+        "Meaning": "Minutes",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MIOL",
+        "Meaning": "Medium Intensity Obstacle Lights"
+    },
+    {
+        "Acronym": "MIRL",
+        "Meaning": "Medium Intensity Runway Lights",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MISC",
+        "Meaning": "Miscellaneous",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MKR",
+        "Meaning": "Marker Radio Beacon",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MLJ",
+        "Meaning": "Military Low Jet",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MLJR",
+        "Meaning": "Military Low Jet Route",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MLS",
+        "Meaning": "Microwave Landing System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MLW",
+        "Meaning": "Maximum Landing Weight",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MM",
+        "Meaning": "Middle Marker",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MMEL",
+        "Meaning": "Master minimum equipment list",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MNM",
+        "Meaning": "Minimum",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MNT",
+        "Meaning": "Monitor, Monitoring,",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "MNTN",
+        "Meaning": "Maintain, Maintained, Maintaining",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MOA",
+        "Meaning": "Military Operating Area",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MOC",
+        "Meaning": "Minimum obstacle clearance (required)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MOD",
+        "Meaning": "Moderate, Moderately",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MOD",
+        "Meaning": "Moderate (used to indicate the intensity of WX phenomena, interference or static reports, eg MOD RA = moderate rain).",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "MON",
+        "Meaning": "Above Mountains",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MOPS",
+        "Meaning": "Minimum Operational Performance Standards",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MOS",
+        "Meaning": "Manual of Standards",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MOU",
+        "Meaning": "Memorandum of understanding",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MOV",
+        "Meaning": "Move, Moved, Moving, Movement",
+        "Source": "CAR 1998"
+    },
+    {
+        "Acronym": "MOWP",
+        "Meaning": "Method of Working Plan"
+    },
+    {
+        "Acronym": "MPD",
+        "Meaning": "Maintenance Planning Data",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MPI",
+        "Meaning": "Magnetic Particle Inspection",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MPL",
+        "Meaning": "Multi-crew Pilot Licence",
+        "Source": "ATA/FAR"
+    },
+    {
+        "Acronym": "MPS",
+        "Meaning": "Metres per Second"
+    },
+    {
+        "Acronym": "MPT",
+        "Meaning": "Magnetic Particle Inspection Technician",
+        "Source": "ICAO Annex 1 'Personnel Licensing'"
+    },
+    {
+        "Acronym": "MRB",
+        "Meaning": "Maintenance Review Board",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MRBR",
+        "Meaning": "Maintenance Review Board Report"
+    },
+    {
+        "Acronym": "MRG",
+        "Meaning": "Medium Range",
+        "Source": "ATA/FAR"
+    },
+    {
+        "Acronym": "MRO",
+        "Meaning": "Maintenance, repair and overhaul"
+    },
+    {
+        "Acronym": "MRP",
+        "Meaning": "ATS/MET Reporting Point",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MS",
+        "Meaning": "Minus",
+        "Source": "CASR Part 145"
+    },
+    {
+        "Acronym": "MSA",
+        "Meaning": "Minimum sector altitude",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MSAS",
+        "Meaning": "Multi-function Transport Satellite (MTSAT) Satellite-based Augmentation System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MSDS",
+        "Meaning": "Material Safety Data Sheets",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "MSG",
+        "Meaning": "Message"
+    },
+    {
+        "Acronym": "MSG",
+        "Meaning": "Maintenance Steering Group"
+    },
+    {
+        "Acronym": "MSG-3",
+        "Meaning": "Maintenance Steering Group Logic Process",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MSI",
+        "Meaning": "Maintenance Significant Item",
+        "Source": "ATA/FAR"
+    },
+    {
+        "Acronym": "MSL",
+        "Meaning": "Mean Sea Level"
+    },
+    {
+        "Acronym": "MSOS",
+        "Meaning": "Maintenance specific operation specification",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "MSSR",
+        "Meaning": "Monopulse Secondary Surveillance Radar",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MT",
+        "Meaning": "Mountain",
+        "Source": "CASR Part 145"
+    },
+    {
+        "Acronym": "MTBF",
+        "Meaning": "Mean Time Between Failure",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MTBR",
+        "Meaning": "Mean Time Between Removals",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MTBUR",
+        "Meaning": "Mean Time Between Unscheduled Removals",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "MTO",
+        "Meaning": "Maintenance training organisation",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "MTOW",
+        "Meaning": "Maximum take-off weight",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "MTP",
+        "Meaning": "Maximum Tyre Pressure",
+        "Source": "CASR Part 147"
+    },
+    {
+        "Acronym": "MTSAT",
+        "Meaning": "Multi-function Transport Satellite",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "MTTF",
+        "Meaning": "Mean Time To Failure",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MTTR",
+        "Meaning": "Mean Time To Repair"
+    },
+    {
+        "Acronym": "MTTUR",
+        "Meaning": "Mean Time To Unscheduled Removal",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "MTUR",
+        "Meaning": "Special Term For Data Transmittal",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "MTW",
+        "Meaning": "Mountain waves",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "MVA",
+        "Meaning": "Minimum Vector Altitude",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "MWO",
+        "Meaning": "Meteorological Watch Office",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "MX",
+        "Meaning": "Mixed type of ice formation (white and clear)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "N",
+        "Meaning": "North, North Latitude",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "N1",
+        "Meaning": "Gas Generator Speed",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "N2",
+        "Meaning": "Second Stage Turbine Speed",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NAA",
+        "Meaning": "National Airworthiness Authority (for a country other than Australia)"
+    },
+    {
+        "Acronym": "NAD",
+        "Meaning": "Non-acqueous Developer"
+    },
+    {
+        "Acronym": "NAIPS",
+        "Meaning": "National aeronautical information processing system",
+        "Source": "CAR 1998"
+    },
+    {
+        "Acronym": "NANDTB",
+        "Meaning": "National Aerospace Non-destructive Testing Board"
+    },
+    {
+        "Acronym": "NANU",
+        "Meaning": "Notice Advisory to NavStar Users",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "NAP",
+        "Meaning": "Noise Abatement Procedures"
+    },
+    {
+        "Acronym": "NAS",
+        "Meaning": "National Airspace System"
+    },
+    {
+        "Acronym": "NASC",
+        "Meaning": "National AIS System Centre",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NAT",
+        "Meaning": "NAVAID Training",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NAV",
+        "Meaning": "Navigation"
+    },
+    {
+        "Acronym": "NAVAID",
+        "Meaning": "Navigation Aid",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NAWD",
+        "Meaning": "Non-acqueous Wet Developer",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NB",
+        "Meaning": "Northbound",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NBFR",
+        "Meaning": "Not Before"
+    },
+    {
+        "Acronym": "NC",
+        "Meaning": "No Change",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NDB",
+        "Meaning": "Non-directional Radio Beacon",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NDI",
+        "Meaning": "Non-destructive inspection",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NDT",
+        "Meaning": "Non-destructive testing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NE",
+        "Meaning": "Northeast",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NEG",
+        "Meaning": "Negative, No. Permission not granted or, That is not correct",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "NFRM",
+        "Meaning": "Notice of Final Rule Making",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NG",
+        "Meaning": "Gas Generator Speed",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NGT",
+        "Meaning": "Night",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "NIL",
+        "Meaning": "None"
+    },
+    {
+        "Acronym": "NM",
+        "Meaning": "Nautical Miles",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NML",
+        "Meaning": "Normal",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NNE",
+        "Meaning": "North North-East",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NNW",
+        "Meaning": "North North-West",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NOF",
+        "Meaning": "International NOTAM Office",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NOSIG",
+        "Meaning": "No Significant Change",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NOTAM",
+        "Meaning": "Notice To Airmen",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NOZ",
+        "Meaning": "Normal Operating Zone",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "NP",
+        "Meaning": "Propeller Speed",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NPA",
+        "Meaning": "Non-precision approach (procedures at aerodromes)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NPC",
+        "Meaning": "Notice of proposed change (consultation for amendment to a MOS)"
+    },
+    {
+        "Acronym": "NPRM",
+        "Meaning": "Notice of proposed rule making",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NSC",
+        "Meaning": "Nil Significant Cloud",
+        "Source": "CAR 1998"
+    },
+    {
+        "Acronym": "NTA",
+        "Meaning": "No TAF Amendment",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "NTL",
+        "Meaning": "National",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NTS",
+        "Meaning": "Negative Torque Sensing System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NTSB",
+        "Meaning": "National Transportation Safety Board (of the USA)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NTZ",
+        "Meaning": "No-transgression zone"
+    },
+    {
+        "Acronym": "NVD",
+        "Meaning": "Night Vision Device"
+    },
+    {
+        "Acronym": "NVED",
+        "Meaning": "Night Vision Enhancement Devices",
+        "Source": "AIP/ICAO"
+    },
+    {
+        "Acronym": "NVET",
+        "Meaning": "National vocational education and training"
+    },
+    {
+        "Acronym": "NVFR",
+        "Meaning": "Night Visual Flight Rules"
+    },
+    {
+        "Acronym": "NVG",
+        "Meaning": "Night Vision Goggles (by the MIL)",
+        "Source": "CASR Part 66"
+    },
+    {
+        "Acronym": "NVIS",
+        "Meaning": "Night Vision Imaging Systems"
+    },
+    {
+        "Acronym": "NW",
+        "Meaning": "North-West",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NXT",
+        "Meaning": "Next"
+    },
+    {
+        "Acronym": "NZ",
+        "Meaning": "New Zealand",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NZ CAA",
+        "Meaning": "New Zealand Civil Aviation Authority",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "NZS",
+        "Meaning": "New Zealand Standard"
+    },
+    {
+        "Acronym": "O/R",
+        "Meaning": "On Request"
+    },
+    {
+        "Acronym": "OAR",
+        "Meaning": "Office of Airspace Regulation"
+    },
+    {
+        "Acronym": "OAT",
+        "Meaning": "Outside Air Transport"
+    },
+    {
+        "Acronym": "OAT",
+        "Meaning": "Outside Air Temperature",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "OBPR",
+        "Meaning": "Office of Best Practice Regulation"
+    },
+    {
+        "Acronym": "OBPR",
+        "Meaning": "Office of Best Practice Regulation"
+    },
+    {
+        "Acronym": "OBS",
+        "Meaning": "Omni Bearing Selector"
+    },
+    {
+        "Acronym": "OBS",
+        "Meaning": "Observe, Observed, Observation"
+    },
+    {
+        "Acronym": "OBSC",
+        "Meaning": "Obscure, Obscured, Obscuring"
+    },
+    {
+        "Acronym": "OBST",
+        "Meaning": "Obstacle"
+    },
+    {
+        "Acronym": "OBSTR",
+        "Meaning": "Obstruction"
+    },
+    {
+        "Acronym": "OC",
+        "Meaning": "Operating Certificate"
+    },
+    {
+        "Acronym": "OCA",
+        "Meaning": "Obstacle Clearing Altitude"
+    },
+    {
+        "Acronym": "OCA",
+        "Meaning": "Oceanic Control Area"
+    },
+    {
+        "Acronym": "OCC",
+        "Meaning": "Occulting (light)"
+    },
+    {
+        "Acronym": "OCH",
+        "Meaning": "Obstacle Clearance Height"
+    },
+    {
+        "Acronym": "OCNL",
+        "Meaning": "Occasional, Occasionally"
+    },
+    {
+        "Acronym": "OCTA",
+        "Meaning": "Outside Control Area"
+    },
+    {
+        "Acronym": "OCTR",
+        "Meaning": "Outside Control Zone"
+    },
+    {
+        "Acronym": "OEI",
+        "Meaning": "One Engine Inoperative",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "OEM",
+        "Meaning": "Original Equipment Manufacturer"
+    },
+    {
+        "Acronym": "OFZ",
+        "Meaning": "Obstacle Free Zone"
+    },
+    {
+        "Acronym": "OHD",
+        "Meaning": "Overhead"
+    },
+    {
+        "Acronym": "OHS",
+        "Meaning": "Occupation Health and Safety"
+    },
+    {
+        "Acronym": "OHSMS",
+        "Meaning": "Occupational Health and Safety Management Systems"
+    },
+    {
+        "Acronym": "OIS",
+        "Meaning": "Obstacle Identification Surface"
+    },
+    {
+        "Acronym": "OLC",
+        "Meaning": "Office of Legal Counsel"
+    },
+    {
+        "Acronym": "OLDI",
+        "Meaning": "On-line Data Interchange"
+    },
+    {
+        "Acronym": "OLS",
+        "Meaning": "Obstacle Limitation Surface"
+    },
+    {
+        "Acronym": "OM",
+        "Meaning": "Operations Manual"
+    },
+    {
+        "Acronym": "OM",
+        "Meaning": "Outer Marker"
+    },
+    {
+        "Acronym": "OPA",
+        "Meaning": "Opaque, white type of ice formation"
+    },
+    {
+        "Acronym": "OPC",
+        "Meaning": "Office of Parliamentary Counsel"
+    },
+    {
+        "Acronym": "OPMET",
+        "Meaning": "Operational Meteorological"
+    },
+    {
+        "Acronym": "OPN",
+        "Meaning": "Operational Notification Message (message type designator)"
+    },
+    {
+        "Acronym": "OPN",
+        "Meaning": "Open, Opening, Opened"
+    },
+    {
+        "Acronym": "OPR",
+        "Meaning": "Operator, Operate, Operative, Operating, Operational"
+    },
+    {
+        "Acronym": "OPS",
+        "Meaning": "Operations"
+    },
+    {
+        "Acronym": "OSIP",
+        "Meaning": "Overhaul and Special Inspections Periods"
+    },
+    {
+        "Acronym": "OT",
+        "Meaning": "Other Times",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "OTAC",
+        "Meaning": "Overseas Territories Aviation Circulars",
+        "Source": "Air Safety Support International (UK)"
+    },
+    {
+        "Acronym": "OTAR",
+        "Meaning": "Overseas Territories Aviation Requirements",
+        "Source": "Air Safety Support International (UK)"
+    },
+    {
+        "Acronym": "OTLK",
+        "Meaning": "Outlook (used in Sigmet messages for volcanic ash and tropical cyclones)",
+        "Source": "Air Safety Support International (UK)"
+    },
+    {
+        "Acronym": "OTP",
+        "Meaning": "On Top",
+        "Source": "Air Safety Support International (UK)"
+    },
+    {
+        "Acronym": "OUBD",
+        "Meaning": "Outboard"
+    },
+    {
+        "Acronym": "OVC",
+        "Meaning": "Overcast"
+    },
+    {
+        "Acronym": "OW",
+        "Meaning": "Over Water"
+    },
+    {
+        "Acronym": "P..",
+        "Meaning": "Prohibited Area (followed by identification)"
+    },
+    {
+        "Acronym": "PA",
+        "Meaning": "Precision Approach"
+    },
+    {
+        "Acronym": "PAL",
+        "Meaning": "Pilot Activated Lighting",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PANS",
+        "Meaning": "Procedures for Air Navigation Services"
+    },
+    {
+        "Acronym": "PANS-OPS",
+        "Meaning": "Procedures for Air Navigation Services - Aircraft Operations ICAO Doc 8168 Vol I and II",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PAPI",
+        "Meaning": "Precision Approach Path Indicator",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PAR",
+        "Meaning": "Precision Approach Radar",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "PARL",
+        "Meaning": "Parallel",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PATC",
+        "Meaning": "Precision Approach Terrain Chart (followed by name/title)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PAX",
+        "Meaning": "Passengers",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PBM",
+        "Meaning": "Power Plant Build-Up Manual",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PC",
+        "Meaning": "Personal Computer",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PCATD",
+        "Meaning": "Personal Computer-based Aviation Training Device",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "PCD",
+        "Meaning": "Proceed, Proceeding"
+    },
+    {
+        "Acronym": "PCL",
+        "Meaning": "Pilot Controlled Lighting"
+    },
+    {
+        "Acronym": "PCN",
+        "Meaning": "Pavement classification number",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PCT",
+        "Meaning": "Practical consolidation training",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PDC",
+        "Meaning": "Pre-Departure Clearance",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "PDO",
+        "Meaning": "Product distribution organisation",
+        "Source": "CASR Part 66"
+    },
+    {
+        "Acronym": "PDOP",
+        "Meaning": "Positional Dilution of Precision",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PDSE",
+        "Meaning": "Pre-departure Service Check",
+        "Source": "CASR Part 144"
+    },
+    {
+        "Acronym": "PEC",
+        "Meaning": "Pressure Error Correction"
+    },
+    {
+        "Acronym": "PERM",
+        "Meaning": "Permanent"
+    },
+    {
+        "Acronym": "PFC",
+        "Meaning": "Porous Friction Course",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PFR",
+        "Meaning": "Preferred Route",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PH",
+        "Meaning": "Public Holiday",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PIB",
+        "Meaning": "Pre-flight information bulletin",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PIC",
+        "Meaning": "Pilot-in-command",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PICUS",
+        "Meaning": "Pilot-in-Command Under Supervision",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "PIFR",
+        "Meaning": "Private IFR rating",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "PILS",
+        "Meaning": "Practice ILS"
+    },
+    {
+        "Acronym": "PIREP",
+        "Meaning": "Pilot Reports",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "PJE",
+        "Meaning": "Parachute Jumping Exercise",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PL",
+        "Meaning": "Ice Pellets",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "PLN",
+        "Meaning": "Flight Plan",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PLVL",
+        "Meaning": "Present Level",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "PMP",
+        "Meaning": "Primary Maintenance Process",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PN",
+        "Meaning": "Prior Notice Required",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PNR",
+        "Meaning": "Point of No Return",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "PO",
+        "Meaning": "Dust Devils",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "POB",
+        "Meaning": "Persons on Board",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "POH",
+        "Meaning": "Pilot Operating Handbook"
+    },
+    {
+        "Acronym": "POSS",
+        "Meaning": "Possible",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PPI",
+        "Meaning": "Plan Position Indicator"
+    },
+    {
+        "Acronym": "PPL",
+        "Meaning": "Private Pilot Licence",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PPR",
+        "Meaning": "Prior Permission Required",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PPS",
+        "Meaning": "Precise Positioning Service",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "PPSN",
+        "Meaning": "Present Position",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PRD",
+        "Meaning": "Prohibited, Restricted and Danger Areas"
+    },
+    {
+        "Acronym": "PRFG",
+        "Meaning": "Aerodrome Partially Covered by Fog (MET code)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PRI",
+        "Meaning": "Primary",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PRKG",
+        "Meaning": "Parking",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PRM",
+        "Meaning": "Precision Runway Monitoring",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PRM",
+        "Meaning": "Precision runway monitoring",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PROB",
+        "Meaning": "Probable, Probability",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PROC",
+        "Meaning": "Procedure",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "PROV",
+        "Meaning": "Provisional",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PS",
+        "Meaning": "Plus",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PSG",
+        "Meaning": "Passing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PSN",
+        "Meaning": "Position",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PSP",
+        "Meaning": "Pierced Steel Plank",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PSR",
+        "Meaning": "Primary Surveillance Radar",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PSYS",
+        "Meaning": "Pressure System(s)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PTBL",
+        "Meaning": "Portable",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PTN",
+        "Meaning": "Procedure Turn",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PTT",
+        "Meaning": "Push To Talk",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PVT",
+        "Meaning": "Private",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "PWR",
+        "Meaning": "Power"
+    },
+    {
+        "Acronym": "QDM",
+        "Meaning": "Magnetic Heading (zero wind)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "QDR",
+        "Meaning": "Magnetic Bearing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "QEC",
+        "Meaning": "Quick Engine Change Unit",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "QFE",
+        "Meaning": "An altimeter set to QFE will read zero when the aircraft is on the runway",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "QMS",
+        "Meaning": "Quality Management System",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "QNH",
+        "Meaning": "Altimeter subscale setting to obtain elevation or altitude"
+    },
+    {
+        "Acronym": "QTE",
+        "Meaning": "True Bearing"
+    },
+    {
+        "Acronym": "QTG",
+        "Meaning": "Qualification test guide",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "QUAD",
+        "Meaning": "Quadrant",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "R",
+        "Meaning": "Red"
+    },
+    {
+        "Acronym": "R",
+        "Meaning": "Right (runway system identification)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "R....",
+        "Meaning": "Restricted Area (followed by number)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "R/T",
+        "Meaning": "Radio Telephone",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RA",
+        "Meaning": "Rain",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RA-Aus",
+        "Meaning": "Recreational Aviation Australia"
+    },
+    {
+        "Acronym": "RAAA",
+        "Meaning": "Recreational Aviation Association of Australia",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RAAO",
+        "Meaning": "Recreational Aviation Administrative Organisation"
+    },
+    {
+        "Acronym": "RAC",
+        "Meaning": "Rules of the Air and Air Traffic Services"
+    },
+    {
+        "Acronym": "RAD",
+        "Meaning": "Radius"
+    },
+    {
+        "Acronym": "RAeS",
+        "Meaning": "Royal Aeronautical Society",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RAFC",
+        "Meaning": "Regional Area Forecast Centre",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RAG",
+        "Meaning": "Ragged"
+    },
+    {
+        "Acronym": "RAG",
+        "Meaning": "Runway Arresting Gear",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RAI",
+        "Meaning": "Runway Alignment Indicator",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RAIM",
+        "Meaning": "Receiver Autonomous Integrity Monitoring",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RAM",
+        "Meaning": "Repair and Maintenance",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RAPAC",
+        "Meaning": "Regional Airspace Users Advisory Committee"
+    },
+    {
+        "Acronym": "RAPIC",
+        "Meaning": "Radar Picture (MET)"
+    },
+    {
+        "Acronym": "RAS",
+        "Meaning": "Radar Advisory Service"
+    },
+    {
+        "Acronym": "RASF",
+        "Meaning": "Regional Aviation Safety Forum"
+    },
+    {
+        "Acronym": "RAT",
+        "Meaning": "RAM Air Turbine",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RCA",
+        "Meaning": "Reach Cruising Altitude,",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RCA",
+        "Meaning": "Request For Corrective Action"
+    },
+    {
+        "Acronym": "RCC",
+        "Meaning": "Rescue Coordination Centre",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RCH",
+        "Meaning": "Reach, Reaching",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RCL",
+        "Meaning": "Runway Centre Line",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RCLL",
+        "Meaning": "Runway Centre Line Lights",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RCLM",
+        "Meaning": "Runway Centre Line Marking",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RDL",
+        "Meaning": "Radial",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RDO",
+        "Meaning": "Radio",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RDS",
+        "Meaning": "Runway Distance Supplement"
+    },
+    {
+        "Acronym": "RE...",
+        "Meaning": "Recent (used to qualify weather phenomena, eg RERA = recent rain)",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "REC",
+        "Meaning": "Receive, Receiver, Received",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "REDL",
+        "Meaning": "Runway Edge Lights",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "REF",
+        "Meaning": "Reference to... Refer to...",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "REG",
+        "Meaning": "Registration",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RENL",
+        "Meaning": "Runway End Lights",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ReOC",
+        "Meaning": "PRPA operator’s certificate"
+    },
+    {
+        "Acronym": "REP",
+        "Meaning": "Report, Reported, Reporting, Reporting Point",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RePL",
+        "Meaning": "Remote pilot licence"
+    },
+    {
+        "Acronym": "REQ",
+        "Meaning": "Request, Requested",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RERTE",
+        "Meaning": "Re-route",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RES",
+        "Meaning": "Reserve Fuel",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RESA",
+        "Meaning": "Runway end safety area",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RESTR",
+        "Meaning": "Restrictions",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "REV",
+        "Meaning": "Review",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "RFACA",
+        "Meaning": "Royal Federation of Aero Clubs of Australia",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RFC",
+        "Meaning": "Request for change",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RFC",
+        "Meaning": "Regional Forecasting Centre (Met)"
+    },
+    {
+        "Acronym": "RFFS",
+        "Meaning": "Rescue and Fire Fighting Services"
+    },
+    {
+        "Acronym": "RH",
+        "Meaning": "Radio Height",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RHC",
+        "Meaning": "Right-hand Circuit",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "RIF",
+        "Meaning": "Reclearance in Flight",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RIFTO",
+        "Meaning": "Restricted Instrument Flight Take-off",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RIS",
+        "Meaning": "Regulation Impact Statement",
+        "Source": "OBPR"
+    },
+    {
+        "Acronym": "RIS",
+        "Meaning": "Radar information service"
+    },
+    {
+        "Acronym": "RL",
+        "Meaning": "Report Leaving",
+        "Source": "ORR"
+    },
+    {
+        "Acronym": "RLA",
+        "Meaning": "Relay to",
+        "Source": "AIP/ICAO"
+    },
+    {
+        "Acronym": "RLLS",
+        "Meaning": "Runway Lead-in Lighting",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RMIT",
+        "Meaning": "Royal Melbourne Institute of Technology",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RMK",
+        "Meaning": "Remark(s)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RMS",
+        "Meaning": "Root Mean Square"
+    },
+    {
+        "Acronym": "RNAV",
+        "Meaning": "Area navigation",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RNP",
+        "Meaning": "Required navigation performance"
+    },
+    {
+        "Acronym": "RO",
+        "Meaning": "Registered operator",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "ROBEX",
+        "Meaning": "Regional OPMET Bulletin Exchanges"
+    },
+    {
+        "Acronym": "ROC",
+        "Meaning": "Rate of Climb",
+        "Source": "CASR Part 43"
+    },
+    {
+        "Acronym": "ROD",
+        "Meaning": "Rate of Descent",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ROFOR",
+        "Meaning": "Route Forecast (in aeronautical meteorological code)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RPA",
+        "Meaning": "Remotely piloted aircraft"
+    },
+    {
+        "Acronym": "RPA",
+        "Meaning": "Rules and practices for aerodromes",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RPAS",
+        "Meaning": "Remotely piloted aircraft system"
+    },
+    {
+        "Acronym": "RPI",
+        "Meaning": "Radar Position Indicator",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RPI",
+        "Meaning": "Regulatory Performance Indicator",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "RPI",
+        "Meaning": "Runway Point of Intercept",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RPL",
+        "Meaning": "Recognition of prior learning",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "RPM",
+        "Meaning": "Revolutions Per Minute",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RPS",
+        "Meaning": "Remote pilot station"
+    },
+    {
+        "Acronym": "RPT",
+        "Meaning": "Regular public transport",
+        "Source": "CASR Part 66"
+    },
+    {
+        "Acronym": "RQ",
+        "Meaning": "Require(d)"
+    },
+    {
+        "Acronym": "RQMNTS",
+        "Meaning": "Requirements",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "RR",
+        "Meaning": "Report Reaching",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RRM",
+        "Meaning": "Routine Reportable Matters",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RSC",
+        "Meaning": "Rescue Sub-Centre",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "RSCD",
+        "Meaning": "Runway Surface Condition",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "RSP",
+        "Meaning": "Responder Beacon",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RSR",
+        "Meaning": "En route Surveillance Radar",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RTB",
+        "Meaning": "Return to Base",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RTCA",
+        "Meaning": "Radio Technical Commission for Aeronautics",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "RTE",
+        "Meaning": "Route"
+    },
+    {
+        "Acronym": "RTF",
+        "Meaning": "Radio Telephone"
+    },
+    {
+        "Acronym": "RTHL",
+        "Meaning": "Runway Threshold Light(s)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RTIL",
+        "Meaning": "Runway Threshold Identification Lights",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RTN",
+        "Meaning": "Return, Returned, Returning",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RTO",
+        "Meaning": "Rejected take-off",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RTO",
+        "Meaning": "Registered training organisation",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RTS",
+        "Meaning": "Return to Service",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "RTZL",
+        "Meaning": "Runway Touchdown Zone Light(s)",
+        "Source": "CASR Part 147"
+    },
+    {
+        "Acronym": "RVR",
+        "Meaning": "Runway visual range",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RVSM",
+        "Meaning": "Reduced Vertical Separation Minimum",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "RWS",
+        "Meaning": "Runway Strip",
+        "Source": "AIP/ICAO"
+    },
+    {
+        "Acronym": "RWY",
+        "Meaning": "Runway",
+        "Source": "ICAO/CAR 1988"
+    },
+    {
+        "Acronym": "RWYS",
+        "Meaning": "Runways"
+    },
+    {
+        "Acronym": "S",
+        "Meaning": "South, South Latitude",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "S-I",
+        "Meaning": "Straight-In",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "S/E",
+        "Meaning": "Single-engine",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "SA",
+        "Meaning": "Sand",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "SA",
+        "Meaning": "Selective Availability"
+    },
+    {
+        "Acronym": "SA",
+        "Meaning": "Situation Awareness",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SAAA",
+        "Meaning": "Sport Aircraft Association of Australia"
+    },
+    {
+        "Acronym": "SAL",
+        "Meaning": "Supplementary Airline Licence"
+    },
+    {
+        "Acronym": "SALR",
+        "Meaning": "Saturated Adiabatic Lapse Rate"
+    },
+    {
+        "Acronym": "SALS",
+        "Meaning": "Simple Approach Lighting System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SAR",
+        "Meaning": "Search and Rescue"
+    },
+    {
+        "Acronym": "SARPs",
+        "Meaning": "Standards and Recommended Practices",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "SARTIME",
+        "Meaning": "Time search action required",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SARWATCH",
+        "Meaning": "Search and Rescue Watch",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "SATCOM",
+        "Meaning": "Satellite Communication"
+    },
+    {
+        "Acronym": "SB",
+        "Meaning": "Service Bulletin"
+    },
+    {
+        "Acronym": "SB",
+        "Meaning": "Southbound",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SBAS",
+        "Meaning": "Satellite Based Augmentation System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SC",
+        "Meaning": "Stratocumulus",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SCC",
+        "Meaning": "Standards Consultative Committee"
+    },
+    {
+        "Acronym": "SCP",
+        "Meaning": "Safety Critical Personnel",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SCT",
+        "Meaning": "Scattered (meteorological)",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "SDBY",
+        "Meaning": "Standby"
+    },
+    {
+        "Acronym": "SDC",
+        "Meaning": "Standard Departure Clearance",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SDR",
+        "Meaning": "Service difficulty report",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SE",
+        "Meaning": "South East",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SEA",
+        "Meaning": "Sea (used in connection with sea-surface temperature and state of the sea)",
+        "Source": "CAR 1998"
+    },
+    {
+        "Acronym": "SEACO",
+        "Meaning": "Single engine aircraft only",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SEC",
+        "Meaning": "Seconds",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SECN",
+        "Meaning": "Section"
+    },
+    {
+        "Acronym": "SECT",
+        "Meaning": "Sector",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SELCAL",
+        "Meaning": "Selective Calling System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SER",
+        "Meaning": "Service, Servicing, Served",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SEV",
+        "Meaning": "Severe (used eg to qualify icing and turbulence report)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SFC",
+        "Meaning": "Surface",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SFL",
+        "Meaning": "Sequenced Flashing Lights",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SG",
+        "Meaning": "Snow Grains",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SH...",
+        "Meaning": "Showers (followed by RA=rain, SN=snow, PL=ice pellets, GR=hail, GS=small hail and/or snow pellets or combinations thereof, eg, SHRASN = showers of rain and snow)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SHF",
+        "Meaning": "Super High Frequency (3,000 to 30,000 MHZ)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SHP",
+        "Meaning": "Shaft Horse Power",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SID",
+        "Meaning": "Standard instrument departure",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SIF",
+        "Meaning": "Selective Identification"
+    },
+    {
+        "Acronym": "SIG",
+        "Meaning": "Significant",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "SIGMET",
+        "Meaning": "Information concerning en route weather phenomena which may affect the safety of aircraft operations",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SIL",
+        "Meaning": "Service Information Letter",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SIMUL",
+        "Meaning": "Simultaneous, or Simultaneously",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SKC",
+        "Meaning": "Sky Clear"
+    },
+    {
+        "Acronym": "SKED",
+        "Meaning": "Schedule, Scheduled",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SL",
+        "Meaning": "Service Letter",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SLP",
+        "Meaning": "Speed Limiting Point",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SLW",
+        "Meaning": "Slow, Slowly"
+    },
+    {
+        "Acronym": "SM",
+        "Meaning": "Safety Manager",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SMC",
+        "Meaning": "Surface Movement Control",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SMR",
+        "Meaning": "Surface Movement Radar"
+    },
+    {
+        "Acronym": "SMS",
+        "Meaning": "Safety management system",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SN",
+        "Meaning": "Snow",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SNOWTAM",
+        "Meaning": "A special series NOTAM notifying the presence or removal of hazardous conditions due to snow, ice, slush or standing water associated with snow, slush and ice on the movement area",
+        "Source": "CAR 1998"
+    },
+    {
+        "Acronym": "SOC",
+        "Meaning": "Start of Climb",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SOE",
+        "Meaning": "Schedule of experience",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SOM (SoM)",
+        "Meaning": "System of Maintenance",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SOPs",
+        "Meaning": "Standard Operating Procedures",
+        "Source": "CAR 1988"
+    },
+    {
+        "Acronym": "SOR",
+        "Meaning": "Summary of responses",
+        "Source": "CAR 1998"
+    },
+    {
+        "Acronym": "SOT",
+        "Meaning": "Start of TORA (take-off)"
+    },
+    {
+        "Acronym": "SP",
+        "Meaning": "Single Pilot",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "SPA",
+        "Meaning": "Sport Aviation",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SPECI",
+        "Meaning": "Aviation Special Weather (in aeronautical meteorological code)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SPFIB",
+        "Meaning": "Specific Preflight Information Bulletin",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SPOT",
+        "Meaning": "Spotwind",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SPS",
+        "Meaning": "Standard Positioning Service",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SQ",
+        "Meaning": "Squall",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SR",
+        "Meaning": "Sunrise"
+    },
+    {
+        "Acronym": "SRB",
+        "Meaning": "Safety Review Board",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SRD",
+        "Meaning": "Standard Radar Departure",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SRG",
+        "Meaning": "Short Range"
+    },
+    {
+        "Acronym": "SRM",
+        "Meaning": "Structural Repair Manual",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SRR",
+        "Meaning": "Search and Rescue Region",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SRY",
+        "Meaning": "Secondary",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "SS",
+        "Meaning": "Sandstorm",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SS",
+        "Meaning": "Sunset",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SSB",
+        "Meaning": "Single Sideband",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SSCRO",
+        "Meaning": "Senate Standing Committee on Regulations and Ordinances",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SSE",
+        "Meaning": "South South-East",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SSI",
+        "Meaning": "Structural Significant Item"
+    },
+    {
+        "Acronym": "SSM",
+        "Meaning": "System Schematics Manual",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SSR",
+        "Meaning": "Secondary Surveillance Radar",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "SST",
+        "Meaning": "Supersonic Transport",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "SSW",
+        "Meaning": "South South-West",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "ST",
+        "Meaning": "Stratus",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "STA",
+        "Meaning": "Straight in Approach",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "STAR",
+        "Meaning": "Standard Arrival Route",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "STAR",
+        "Meaning": "Standard instrumental arrival",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "STARs",
+        "Meaning": "Standard terminal arrival routes",
+        "Source": "AIP"
+    },
+    {
+        "Acronym": "STC",
+        "Meaning": "Supplemental Type Certificate",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "STD",
+        "Meaning": "Synthetic training device"
+    },
+    {
+        "Acronym": "STD",
+        "Meaning": "Standard",
+        "Source": "CASR Part 21"
+    },
+    {
+        "Acronym": "STF",
+        "Meaning": "Stratiform",
+        "Source": "CASR Part 60"
+    },
+    {
+        "Acronym": "STN",
+        "Meaning": "Station",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "STNR",
+        "Meaning": "Stationary",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "STODA",
+        "Meaning": "Supplementary Take-off Distance",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "STOL",
+        "Meaning": "Short Take-off and Landing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "STS",
+        "Meaning": "Status",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "STWL",
+        "Meaning": "Stopway Light(s)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SUBJ",
+        "Meaning": "Subject to",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SUP",
+        "Meaning": "Supplement (AIP Supplement)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SUPPS",
+        "Meaning": "Regional Supplementary Procedures",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SVCBL",
+        "Meaning": "Serviceable",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SVY",
+        "Meaning": "Survey Operations",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SW",
+        "Meaning": "South-West",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SWS",
+        "Meaning": "Soft Wet Surface",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "SWY",
+        "Meaning": "Stopway",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "T",
+        "Meaning": "Temperature",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "T-VASIS",
+        "Meaning": "T'Visual Approach Slope Indicator System (pronounced 'TEE-VAR-SIS')",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TA",
+        "Meaning": "Transition Altitude",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TA",
+        "Meaning": "Traffic advisory",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TAAATS",
+        "Meaning": "The Australian Advanced Air Traffic System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TAAM",
+        "Meaning": "Airservices Australia's Total Airspace Airport and Aerodrome Modeller",
+        "Source": "ICAO/AIP"
+    },
+    {
+        "Acronym": "TAC",
+        "Meaning": "Terminal Area Chart"
+    },
+    {
+        "Acronym": "TACAN",
+        "Meaning": "Tactical Air Navigation Aid",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TAF",
+        "Meaning": "Aerodrome Forecast",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TAF",
+        "Meaning": "Terminal Area Forecast",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TAIL",
+        "Meaning": "Tailwind",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TAR",
+        "Meaning": "Terminal Area Surveillance Area"
+    },
+    {
+        "Acronym": "TAS",
+        "Meaning": "True Airspeed",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TAT",
+        "Meaning": "Terminal Area Thunderstorm Service (meteorological term)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TAWS",
+        "Meaning": "Terrain awareness and warning system",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TAWS-B+ system",
+        "Meaning": "A terrain awareness and warning system that is equipped with a visual display and complies with the requirements for Class B equipment expressed in TSO-C151, TSO-C151a or TSO-C151b.",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TAX",
+        "Meaning": "Taxiing, Taxi",
+        "Source": "CAO 20.18"
+    },
+    {
+        "Acronym": "TBA",
+        "Meaning": "To be advised",
+        "Source": "CAO Part 20, Section 20.18, Issue 9"
+    },
+    {
+        "Acronym": "TBO",
+        "Meaning": "Time Between Overhauls",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TC",
+        "Meaning": "Type Certificate",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TC",
+        "Meaning": "Tropical Cyclone",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "TCAC",
+        "Meaning": "Tropical Cyclone Advisory Centre",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TCAS",
+        "Meaning": "Traffic alert and collision avoidance system",
+        "Source": "CASA"
+    },
+    {
+        "Acronym": "TCDS",
+        "Meaning": "Type certificate data sheet"
+    },
+    {
+        "Acronym": "TCH",
+        "Meaning": "Threshold Crossing Height",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "TCO",
+        "Meaning": "Training and Checking Organisation",
+        "Source": "CASR Part 21"
+    },
+    {
+        "Acronym": "TCTA",
+        "Meaning": "Trans-continental Control Area",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TCU",
+        "Meaning": "Towering Cumulus (met)"
+    },
+    {
+        "Acronym": "TDO",
+        "Meaning": "Tornado",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TDZ",
+        "Meaning": "Touchdown Zone",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TECR",
+        "Meaning": "Technical Reason",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TEL",
+        "Meaning": "Telephone",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TEM",
+        "Meaning": "(Illustrated) Tool And Equipment Manual",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TEM",
+        "Meaning": "Threat and Error Management",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TEMPO",
+        "Meaning": "Temporary, Temporarily (meteorologically)",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "TERPs",
+        "Meaning": "Terminal and En-route procedures"
+    },
+    {
+        "Acronym": "TFC",
+        "Meaning": "Traffic",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TFR",
+        "Meaning": "Terrain Following Radar (by the MIL)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TGL",
+        "Meaning": "Touch & Go Landing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TGS",
+        "Meaning": "Taxiing Guidance System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "THR",
+        "Meaning": "Threshold",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "THRU",
+        "Meaning": "Through",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TIBA",
+        "Meaning": "Traffic Information Broadcasts by Aircraft",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TIL",
+        "Meaning": "Until",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TIP",
+        "Meaning": "Until Past (place)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TIS",
+        "Meaning": "Time in service",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TKOF",
+        "Meaning": "Take-off",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TLOF",
+        "Meaning": "Touchdown and lift-off area"
+    },
+    {
+        "Acronym": "TLS",
+        "Meaning": "Transponder Landing System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TLW",
+        "Meaning": "Time Limited WIP (work in progress)",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "TMA",
+        "Meaning": "Terminal Control Area"
+    },
+    {
+        "Acronym": "TMG",
+        "Meaning": "Track Made Good",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TMP",
+        "Meaning": "Temperature"
+    },
+    {
+        "Acronym": "TNA",
+        "Meaning": "Training Needs Analysis",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TNA",
+        "Meaning": "Turn Altitude"
+    },
+    {
+        "Acronym": "TNH",
+        "Meaning": "Turn Height"
+    },
+    {
+        "Acronym": "TNS",
+        "Meaning": "Transitional Surface",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TOC",
+        "Meaning": "Top of Climb",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TODA",
+        "Meaning": "Take-off distance available",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TOP",
+        "Meaning": "Cloud Top",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TORA",
+        "Meaning": "Take-off run available",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "TOT",
+        "Meaning": "Turbine Outlet Temperature",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TP",
+        "Meaning": "Turning Point",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "TR",
+        "Meaning": "Track"
+    },
+    {
+        "Acronym": "TRA",
+        "Meaning": "Temporary Reserved Airspace",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TRAN",
+        "Meaning": "Transition",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TRANS",
+        "Meaning": "Transmits, Transmitter",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "Trike",
+        "Meaning": "A manned, powered hang-glider",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TRL",
+        "Meaning": "Transition Level",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TROP",
+        "Meaning": "Tropopause"
+    },
+    {
+        "Acronym": "TS...",
+        "Meaning": "Thunderstorm (followed by RA=rain, SN=snow, PE=ice pellets, GR=hail, GS=small hail and/or snow pellets or combinations thereof, eg TSRASN = thunderstorm with rain and snow)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TSI",
+        "Meaning": "Time Since Installation",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TSO",
+        "Meaning": "Technical Standard Order",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TSO",
+        "Meaning": "Time Since Overhaul",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "TTF",
+        "Meaning": "Trend Type Forecast"
+    },
+    {
+        "Acronym": "TTMRA",
+        "Meaning": "Trans Tasman Mutual Recognition Agreement",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "TURB",
+        "Meaning": "Turbulence"
+    },
+    {
+        "Acronym": "TWR",
+        "Meaning": "Aerodrome Control Tower, Aerodrome Control",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TWY",
+        "Meaning": "Taxiway",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TWYL",
+        "Meaning": "Taxiway Link",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TYP",
+        "Meaning": "Type of Aircraft",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "TYPH",
+        "Meaning": "Typhoon",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "U/S",
+        "Meaning": "Unserviceable",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "UAB",
+        "Meaning": "Until Advised By",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "UAS",
+        "Meaning": "Unmanned aerial system (UAV/RPAS)"
+    },
+    {
+        "Acronym": "UAV",
+        "Meaning": "Unmanned aerial vehicles",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "UDF",
+        "Meaning": "UHF Direction Finding Stations",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "UFIT",
+        "Meaning": "Uncontrolled Flight Into Terrain",
+        "Source": "CASR Part 101"
+    },
+    {
+        "Acronym": "UFN",
+        "Meaning": "Until Further Notice",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "UHDT",
+        "Meaning": "Unable Higher Due Traffic"
+    },
+    {
+        "Acronym": "UHF",
+        "Meaning": "Ultra High Frequency (300 to 3,000 MHZ)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "UIR",
+        "Meaning": "Upper Flight Information Region",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "UK",
+        "Meaning": "United Kingdom",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "UL",
+        "Meaning": "Upper Limits",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "UNA",
+        "Meaning": "Unable"
+    },
+    {
+        "Acronym": "UNAP",
+        "Meaning": "Unable to Approve",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "UNICOM",
+        "Meaning": "Universal Communications",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "UNL",
+        "Meaning": "Unlimited",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "UNLC",
+        "Meaning": "Unlicensed"
+    },
+    {
+        "Acronym": "UNREL",
+        "Meaning": "Unreliable",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "UOC",
+        "Meaning": "Unmanned operating certificate"
+    },
+    {
+        "Acronym": "US FAR",
+        "Meaning": "Federal Aviation Regulations (of the USA)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "USA",
+        "Meaning": "United States of America"
+    },
+    {
+        "Acronym": "UTA",
+        "Meaning": "Upper Control Area"
+    },
+    {
+        "Acronym": "UTC",
+        "Meaning": "Coordinated Universal Time"
+    },
+    {
+        "Acronym": "V",
+        "Meaning": "Velocity",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "V1",
+        "Meaning": "Take-off Decision Speed",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "V2",
+        "Meaning": "Take-off Safety Speed (Applicable to Larger Multi-engine Aircraft)"
+    },
+    {
+        "Acronym": "VA",
+        "Meaning": "Volcanic Ash"
+    },
+    {
+        "Acronym": "VA",
+        "Meaning": "Maximum Manoeuvring Speed"
+    },
+    {
+        "Acronym": "VAA-H",
+        "Meaning": "Visual Approach Area - Helicopter",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VAAC",
+        "Meaning": "Volcanic Ash Advisory Centre"
+    },
+    {
+        "Acronym": "VAC",
+        "Meaning": "Visual Approach Chart (followed by name/title)"
+    },
+    {
+        "Acronym": "VAL",
+        "Meaning": "In Valleys"
+    },
+    {
+        "Acronym": "VAR",
+        "Meaning": "Magnetic Variation",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VASIS",
+        "Meaning": "Visual Approach Slope Indicator System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VC",
+        "Meaning": "Vicinity of the aerodrome (followed by FG=fog, FC=funnel cloud, PO=dust/sand whirls, BLDU=blowing dust, BLSA=blowing sand or BLSN=blowing snow; eg, VCFG=vicinity fog",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VCY",
+        "Meaning": "Vicinity",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VDF",
+        "Meaning": "VHF Direction Finding Station",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VEC",
+        "Meaning": "Visual En-route Chart",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VER",
+        "Meaning": "Vertical",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VFE",
+        "Meaning": "Flap Extension Speed",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VFR",
+        "Meaning": "Visual flight rules",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VHF",
+        "Meaning": "Very High Frequency (30 to 300 MHZ)"
+    },
+    {
+        "Acronym": "VHFCOM",
+        "Meaning": "Very High Frequency Communications"
+    },
+    {
+        "Acronym": "VIA",
+        "Meaning": "By way of...",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VIMD",
+        "Meaning": "Maximum Drag Speed"
+    },
+    {
+        "Acronym": "VIP",
+        "Meaning": "Very Important Person",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VIS",
+        "Meaning": "Visibility"
+    },
+    {
+        "Acronym": "VLE",
+        "Meaning": "Maximum Speed with Landing Gear Extended",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VLF",
+        "Meaning": "Very Low Frequency (3 to 30 KHZ)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VLJ",
+        "Meaning": "Very Light Jet"
+    },
+    {
+        "Acronym": "VLO",
+        "Meaning": "Landing Gear Operating",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VLO2",
+        "Meaning": "Landing Gear Operation Down"
+    },
+    {
+        "Acronym": "VLOS",
+        "Meaning": "Visual line of sight"
+    },
+    {
+        "Acronym": "VLR",
+        "Meaning": "Very Long Range"
+    },
+    {
+        "Acronym": "VMAN",
+        "Meaning": "Visual Manoeuvre Speed"
+    },
+    {
+        "Acronym": "VMC",
+        "Meaning": "Visual Meteorological Conditions",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VMC",
+        "Meaning": "Minimum Control Speed"
+    },
+    {
+        "Acronym": "VMCA",
+        "Meaning": "Minimum Control Airspeed Airborne (Red line speed)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VMCG",
+        "Meaning": "Minimum Control Airspeed on the Ground"
+    },
+    {
+        "Acronym": "VMO",
+        "Meaning": "Maximum Structural Cruising Speed"
+    },
+    {
+        "Acronym": "VNAV",
+        "Meaning": "Vertical Navigation"
+    },
+    {
+        "Acronym": "VNE",
+        "Meaning": "Never Exceed Speed"
+    },
+    {
+        "Acronym": "VNO",
+        "Meaning": "Normal Operating Speed",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "VOLMET",
+        "Meaning": "Meteorological Information for Aircraft in Flight",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "VOR",
+        "Meaning": "VHF Omni-directional Radio Range (OMNI)"
+    },
+    {
+        "Acronym": "VP",
+        "Meaning": "Variable Pitch Propellers",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VR",
+        "Meaning": "The speed at which the aircraft is rotated to lift off from the runway",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VRB",
+        "Meaning": "Variable"
+    },
+    {
+        "Acronym": "VSI",
+        "Meaning": "Vertical Speed Indicator"
+    },
+    {
+        "Acronym": "VSI",
+        "Meaning": "Clean Stall Speed",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VSL",
+        "Meaning": "Vertical speed limit"
+    },
+    {
+        "Acronym": "VSO",
+        "Meaning": "Stalling speed, minimum steady flight speed in the landing configuration"
+    },
+    {
+        "Acronym": "VSO",
+        "Meaning": "Stall speed with undercarriage and flap selected",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "VSSE",
+        "Meaning": "Safe single-engine Speed",
+        "Source": "CAR 1998"
+    },
+    {
+        "Acronym": "VTC",
+        "Meaning": "Visual Terminal Chart"
+    },
+    {
+        "Acronym": "VTOL",
+        "Meaning": "Vertical take-off and landing"
+    },
+    {
+        "Acronym": "VTOSS",
+        "Meaning": "Take-off Safely Speed",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "VX",
+        "Meaning": "Best Angle of Climb Speed",
+        "Source": "ICAO"
+    },
+    {
+        "Acronym": "VXSE",
+        "Meaning": "Best Single-engine Angle of Climb Speed"
+    },
+    {
+        "Acronym": "Vy",
+        "Meaning": "Best Rate of Climb Speed"
+    },
+    {
+        "Acronym": "VYSE",
+        "Meaning": "Best Single-engine Rate of Climb Speed (Blue line speed)"
+    },
+    {
+        "Acronym": "W",
+        "Meaning": "Watt"
+    },
+    {
+        "Acronym": "W",
+        "Meaning": "West, West Longitude"
+    },
+    {
+        "Acronym": "W",
+        "Meaning": "White"
+    },
+    {
+        "Acronym": "W/V",
+        "Meaning": "Wind Velocity",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WAAS",
+        "Meaning": "Wide Area Augmentation System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WAC",
+        "Meaning": "World Aeronautical Chart ICAO 1:1,000,000 (followed by name/title)"
+    },
+    {
+        "Acronym": "WAFC",
+        "Meaning": "World Area Forecast Centre"
+    },
+    {
+        "Acronym": "WAFS",
+        "Meaning": "World Area Forecast System",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WATIR",
+        "Meaning": "Weather and Terminal Information Reciter",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WATOG",
+        "Meaning": "World Airlines Technical Operations Glossary"
+    },
+    {
+        "Acronym": "WB",
+        "Meaning": "Westbound",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WBM",
+        "Meaning": "Weight And Balance Manual"
+    },
+    {
+        "Acronym": "WDI",
+        "Meaning": "Wind Direction Indicator",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WDSPR",
+        "Meaning": "Widespread",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "WED",
+        "Meaning": "Wednesday",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WEF",
+        "Meaning": "With Effect From, Effective From",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WGS-84",
+        "Meaning": "World Geodetic System 1984",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WI",
+        "Meaning": "Within",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WID",
+        "Meaning": "Width",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WIE",
+        "Meaning": "With Immediate Effect, Effective Immediately",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WILCO",
+        "Meaning": "Will Comply",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WIND",
+        "Meaning": "Wind (used in connection with direction and speed)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WINTEM",
+        "Meaning": "Forecast upper wind and temperature at specified points (in aeronautical met code)"
+    },
+    {
+        "Acronym": "WIP",
+        "Meaning": "Work in Progress",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WKN",
+        "Meaning": "Weaken, Weakening",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WM",
+        "Meaning": "Wiring Manual",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WMO",
+        "Meaning": "World Meteorological Organisation",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WNW",
+        "Meaning": "West North-West",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "WO",
+        "Meaning": "Without"
+    },
+    {
+        "Acronym": "WPT",
+        "Meaning": "Way-point",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WRNG",
+        "Meaning": "Warning",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WS",
+        "Meaning": "Wind Shear",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WSW",
+        "Meaning": "West South-West",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WT",
+        "Meaning": "Weight",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WTSPT",
+        "Meaning": "Water Spout",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WWW",
+        "Meaning": "World Wide Web",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "WX",
+        "Meaning": "Weather",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "X",
+        "Meaning": "Cross",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "XBAR",
+        "Meaning": "Crossbar (of approach lighting system)",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "XNG",
+        "Meaning": "Crossing",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "XS",
+        "Meaning": "Atmospherics",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "XW",
+        "Meaning": "Crosswind"
+    },
+    {
+        "Acronym": "XSEC",
+        "Meaning": "Extra Section",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "Y",
+        "Meaning": "Yellow",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "YCZ",
+        "Meaning": "Yellow Caution Zone",
+        "Source": "WATOG"
+    },
+    {
+        "Acronym": "YR",
+        "Meaning": "Your/s",
+        "Source": "AIS"
+    },
+    {
+        "Acronym": "Z",
+        "Meaning": "Coordinated Universal Time (in meteorological messages)",
+        "Source": "AIS"
+    }
+]
