@@ -8,6 +8,14 @@
         "Meaning": "$1 to $2 (degrees) at $3 (knots)"
     },
     {
+        "Acronym": "/^([0-3][0-9][0-9])\/([0-9]?[0-9])G([0-9]?[0-9])$/",
+        "Meaning": "$1 (degrees) at $2 (knots) gusting at $3 (knots)"
+    },
+    {
+        "Acronym": "/^([0-3][0-9][0-9])-([0-3][0-9][0-9])\/([0-9]?[0-9])G([0-9]?[0-9])$/",
+        "Meaning": "$1 to $2 (degrees) at $3 (knots) gusting at $4 (knots)"
+    },
+    {
         "Acronym": "/^([0-3][0-9][0-9])\/([0-9]?[0-9])-([0-9]?[0-9])$/",
         "Meaning": "$1 (degrees) at $2 to $3 (knots)"
     },
