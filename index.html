@@ -125,7 +125,7 @@
 
 <body>
     <textarea id="textinput"
-        rows="5">INFO E. TMP: 13. WIND: 100/15 XW MAX 12 KTS RWY 16. CLD: FEW020. EXP INSTR APCH. RWY 07 FOR ARRS, RWYS 16L&R FOR DEPS. ACFT WITH GREATER THAN 36M WINGSPAN EXPECT INTERSECTION GOLF FOR DEPARTURE RWY 16R. WET. VIS: 10KM IN RAIN. QNH: 1026.</textarea>
+        rows="5">INFO T. RWY 05 FOR ARR. RWY 23 FOR DEP. TMP: 11. WND: 170/6. MAX TW 5, RWY 05. CLD: FEW020 SCT025 BKN030. EXP INST APCH. CURFEW IN OPER UNTIL 2030 Z, PENALTIES MAY APPLY. VIS: GREATER THAN 10 KM. QNH: 1020.</textarea>
     <button id="randomSample">Random Sample</button>
     <div id="my_dataviz"></div>
     <script>
@@ -159,14 +159,20 @@
         };
 
         function getTermMeaning(word, sentence, termsdata) {
-            word = word.replace(/[^a-zA-Z0-9]/g, "");
+            rword = word.replace(/[^a-zA-Z0-9]/g, "");
 
-            if (word.length == 1 && sentence.startsWith("INFO")) {
-                return [word.charCodeAt(0), ICAO_ALPHABET[word]];
+            if (rword.length == 1 && sentence.startsWith("INFO")) {
+                return [rword.charCodeAt(0), ICAO_ALPHABET[rword]];
             }
 
             for (var i = 0; i < termsdata.length; i++) {
-                if (termsdata[i]['Acronym'].toUpperCase() == word.toUpperCase()) {
+                if (termsdata[i]['Acronym'].startsWith("/")) {
+                    var r = new RegExp(termsdata[i]['Acronym'].replace(/^\//g, "").replace(/\/$/g, ""));
+
+                    if (word.match(r)) {
+                        return [i, word.replaceAll(r, termsdata[i]['Meaning'])];
+                    }
+                } else if (termsdata[i]['Acronym'].toUpperCase() == rword.toUpperCase()) {
                     return [i, termsdata[i]['Meaning']];
                 }
             };

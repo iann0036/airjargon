@@ -1,5 +1,21 @@
 [
     {
+        "Acronym": "/([1-3][0-9][0-9])\/([0-9]?[0-9])/",
+        "Meaning": "$1 (degrees) at $2 (knots)"
+    },
+    {
+        "Acronym": "/([1-3][0-9])L/",
+        "Meaning": "$1 Left"
+    },
+    {
+        "Acronym": "/([1-3][0-9])R/",
+        "Meaning": "$1 Right"
+    },
+    {
+        "Acronym": "/([1-3][0-9])L&R/",
+        "Meaning": "$1 Left and $1 Right"
+    },
+    {
         "Acronym": "A",
         "Meaning": "Amber",
         "Source": "ICAO"
