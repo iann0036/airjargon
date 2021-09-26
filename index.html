@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <script src="https://d3js.org/d3.v6.js"></script>
+    <link href="IBMPlexSans-Medium.ttf" rel="stylesheet">
     <style>
         #my_dataviz {
             background-color: lightgrey;
@@ -12,28 +13,112 @@
             width: 80%;
         }
 
-        .ent1:before {
-            background-color: #df3312
+        @font-face {
+            font-family: 'Open Sans';
+            src: url('static/OpenSans-ExtraBoldItalic.woff2') format('woff2'),
+                url('static/OpenSans-ExtraBoldItalic.woff') format('woff');
+            font-weight: bold;
+            font-style: italic;
+            font-display: swap;
         }
 
-        .ent2:before {
-            background-color: #1e8900
+        @font-face {
+            font-family: 'Open Sans';
+            src: url('static/OpenSans-Light.woff2') format('woff2'),
+                url('static/OpenSans-Light.woff') format('woff');
+            font-weight: 300;
+            font-style: normal;
+            font-display: swap;
         }
 
-        .ent3:before {
-            background-color: #dd6b10
+        @font-face {
+            font-family: 'Open Sans';
+            src: url('static/OpenSans-Italic.woff2') format('woff2'),
+                url('static/OpenSans-Italic.woff') format('woff');
+            font-weight: normal;
+            font-style: italic;
+            font-display: swap;
         }
 
-        .ent4:before {
-            background-color: #0073bb
+        @font-face {
+            font-family: 'Open Sans';
+            src: url('static/OpenSans-SemiBoldItalic.woff2') format('woff2'),
+                url('static/OpenSans-SemiBoldItalic.woff') format('woff');
+            font-weight: 600;
+            font-style: italic;
+            font-display: swap;
         }
 
-        .ent5:before {
-            background-color: #ce6dbd
+        @font-face {
+            font-family: 'Open Sans';
+            src: url('static/OpenSans-BoldItalic.woff2') format('woff2'),
+                url('static/OpenSans-BoldItalic.woff') format('woff');
+            font-weight: bold;
+            font-style: italic;
+            font-display: swap;
         }
 
-        .ent6:before {
-            background-color: #756bb1
+        @font-face {
+            font-family: 'Open Sans';
+            src: url('static/OpenSans-MediumItalic.woff2') format('woff2'),
+                url('static/OpenSans-MediumItalic.woff') format('woff');
+            font-weight: 500;
+            font-style: italic;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Open Sans';
+            src: url('static/OpenSans-Medium.woff2') format('woff2'),
+                url('static/OpenSans-Medium.woff') format('woff');
+            font-weight: 500;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Open Sans';
+            src: url('static/OpenSans-SemiBold.woff2') format('woff2'),
+                url('static/OpenSans-SemiBold.woff') format('woff');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Open Sans';
+            src: url('static/OpenSans-LightItalic.woff2') format('woff2'),
+                url('static/OpenSans-LightItalic.woff') format('woff');
+            font-weight: 300;
+            font-style: italic;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Open Sans';
+            src: url('static/OpenSans-ExtraBold.woff2') format('woff2'),
+                url('static/OpenSans-ExtraBold.woff') format('woff');
+            font-weight: bold;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Open Sans';
+            src: url('static/OpenSans-Bold.woff2') format('woff2'),
+                url('static/OpenSans-Bold.woff') format('woff');
+            font-weight: bold;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Open Sans';
+            src: url('static/OpenSans-Regular.woff2') format('woff2'),
+                url('static/OpenSans-Regular.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
         }
     </style>
 </head>
@@ -138,7 +223,8 @@
 
                     for (var word of words) {
                         var lastword = svg.append('text')
-                            .attr('x', d => lastword.width + lastword.x + 4)
+                            .attr('font-family', 'Open Sans')
+                            .attr('x', d => (lastword.width*1.05) + lastword.x + 4)
                             .attr('y', d => lastsentence.y)
                             .attr('stroke', 'black')
                             .style("font-size", 12)
@@ -164,20 +250,23 @@
                                 .attr('fill', COLORS[termmeaning[0] % COLORS.length]);
 
                             var expandedword = svg.append('text')
+                                .attr('font-family', 'Open Sans')
                                 .attr('x', d => lastword.x + 6)
-                                .attr('y', d => lastword.y + lastword.height + 12)
+                                .attr('y', d => lastword.y + lastword.height + 13)
                                 .attr('stroke', 'black')
                                 .style("font-size", 8)
                                 .text(termmeaning[1])
                                 .node().getBBox();
 
-                            if (expandedword.width > lastword.width) {
+                            if (expandedword.width + 8 > lastword.width) {
                                 lastword = expandedword;
+                                lastword.width = lastword.width * 1.1;
                             }
                         }
                     }
 
                     svg.append('text')
+                        .attr('font-family', 'Open Sans')
                         .attr('x', d => lastword.width + lastword.x + 4)
                         .attr('y', d => lastsentence.y)
                         .attr('stroke', 'black')
