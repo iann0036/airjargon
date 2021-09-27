@@ -218,7 +218,7 @@
         function getTermMeaning(word, sentence, termsdata) {
             rword = word.replace(/[^a-zA-Z0-9]/g, "");
 
-            if (rword.length == 1 && sentence.includes(" INFO")) {
+            if (rword.length == 1 && (sentence.includes(" INFO") || sentence.startsWith("INFO"))) {
                 return [rword.charCodeAt(0), ICAO_ALPHABET[rword]];
             }
 
