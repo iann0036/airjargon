@@ -230,7 +230,7 @@
         }
 
         const margin = { top: 50, right: 30, bottom: 50, left: 30 },
-            width = window.innerWidth - margin.left - margin.right,
+            width = Math.min(window.innerWidth - margin.left - margin.right, 800),
             height = 600 - margin.top - margin.bottom;
 
         const svg = d3.select("#my_dataviz")
