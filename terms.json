@@ -24,6 +24,14 @@
         "Meaning": "$1 to $2 (degrees) at $3 to $4 (knots)"
     },
     {
+        "Acronym": "/^B0([1-9])([0-9])$/",
+        "Meaning": "Below $1,$200 feet"
+    },
+    {
+        "Acronym": "/^B([1-9][1-9])([0-9])$/",
+        "Meaning": "Below $1,$200 feet"
+    },
+    {
         "Acronym": "/^([0-3][0-9])C$/",
         "Meaning": "$1 Center"
     },
