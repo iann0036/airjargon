@@ -218,7 +218,7 @@
         function getTermMeaning(word, sentence, termsdata) {
             rword = word.replace(/[^a-zA-Z0-9]/g, "");
 
-            if (rword.length == 1 && sentence.startsWith("INFO")) {
+            if (rword.length == 1 && sentence.includes(" INFO")) {
                 return [rword.charCodeAt(0), ICAO_ALPHABET[rword]];
             }
 
@@ -253,7 +253,7 @@
             function processTextInput() {
                 svg.selectAll("*").remove();
 
-                var alltext = document.getElementById("textinput").value.trim();
+                var alltext = document.getElementById("textinput").value.trim().replaceAll(/\n/g, ". ");
 
                 var sentences = alltext.split(".");
 
