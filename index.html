@@ -7,7 +7,7 @@
     <style>
         #my_dataviz {
             background-color: lightgrey;
-            max-width: 1200px;
+            max-width: 1000px;
             display: inline-block;
         }
 
@@ -16,7 +16,7 @@
         }
 
         svg {
-            max-width: 1200px;
+            max-width: 1000px;
         }
 
         @font-face {
@@ -238,7 +238,7 @@
         }
 
         const margin = { top: 50, right: 30, bottom: 50, left: 30 },
-            width = Math.max(window.innerWidth - margin.left - margin.right, 1200),
+            width = Math.max(window.innerWidth - margin.left - margin.right, 1000),
             height = 600 - margin.top - margin.bottom;
 
         const svg = d3.select("#my_dataviz")
