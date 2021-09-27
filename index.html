@@ -6,7 +6,7 @@
     <style>
         #my_dataviz {
             background-color: lightgrey;
-            max-width: 600px;
+            max-width: 1400px;
         }
 
         #textinput {
@@ -232,13 +232,14 @@
         }
 
         const margin = { top: 50, right: 30, bottom: 50, left: 30 },
-            width = Math.min(window.innerWidth - margin.left - margin.right, 800),
+            width = Math.min(window.innerWidth - margin.left - margin.right, 1400),
             height = 600 - margin.top - margin.bottom;
 
         const svg = d3.select("#my_dataviz")
             .append("svg")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
+            .style("display", "block")
             .append("g")
             .attr("transform",
                 "translate(" + margin.left + "," + margin.top + ")");
