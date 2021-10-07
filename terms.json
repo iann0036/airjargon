@@ -3954,11 +3954,6 @@
     },
     {
         "Acronym": "M",
-        "Meaning": "Mach number (followed by figures ie .02 = Mach .02)",
-        "Source": "AIS"
-    },
-    {
-        "Acronym": "M",
         "Meaning": "Metres",
         "Source": "AIS"
     },
